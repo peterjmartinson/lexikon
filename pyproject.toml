@@ -1,0 +1,24 @@
+[project]
+name = "lexikon"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = [
+    "spacy>=3",
+    "google-cloud-translate>=3",
+    "fr-core-news-md @ https://github.com/explosion/spacy-models/releases/download/fr_core_news_md-3.8.0/fr_core_news_md-3.8.0-py3-none-any.whl",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=7",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.metadata]
+allow-direct-references = true
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/lexikon"]

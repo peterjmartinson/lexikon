@@ -1,0 +1,2847 @@
+--- A ---
+abaisser (verb) - lower
+abandonner (verb) - give up
+abattre (verb) - fell
+abondant (adjective) - abundant
+aboutir (verb) - to succeed
+abri (noun, m) - shelter
+abriter (verb) - shelter
+absence (noun, f) - absence
+absolu (adjective) - absolute
+absolument (adverb) - absolutely
+absorber (verb) - absorb
+absurde (adjective) - absurd
+abuser (verb) - abuse
+abîme (noun, m) - abyss
+abîmer (verb) - damage
+accabler (verb) - overwhelm
+accent (adjective) - accent
+accepter (verb) - accept
+accident (noun, m) - accident
+accompagner (verb) - to accompany
+accomplir (verb) - accomplish
+accord (noun, m) - agreement
+accorder (verb) - to agree 
+accoter (verb) - lean
+accourir (verb) - run
+accoutumer (verb) - accustom
+accoutumé (adjective) - accustomed
+accrocher (verb) - hang
+accroissement (noun, m) - increase
+accroître (verb) - increase
+accueil (noun, m) - welcome
+accumuler (verb) - accumulate
+accuser (verb) - accuse
+accès (noun, m) - access
+achever (verb) - finish
+acide (adjective) - acid
+acoustique (adjective) - acoustic
+acquérir (verb) - acquire
+action (noun, f) - action
+activer (verb) - enable
+activité (noun, f) - activity
+actuel (adjective) - current
+actuellement (adverb) - Currently
+adieu (noun, f) - farewell
+admettre (verb) - admit
+administration (noun, f) - administration
+admirable (adjective) - admirable
+admiration (noun, f) - admiration
+admirer (verb) - admire
+adouci (adjective) - softened
+adresse (noun, f) - address
+adresser (verb) - address
+adroit (adjective) - skillful
+adroitement (adverb) - skillfully
+affaibli (adjective) - weakened
+affaiblir (verb) - weaken
+affaire (noun, f) - affair
+affaissement (noun, m) - subsidence
+affecter (verb) - affect
+affirmatif (adjective) - affirmative
+affirmation (noun, f) - statement
+affirmer (verb) - affirm
+agir (verb) - act
+agitation (noun, f) - hustle
+agiter (verb) - shake
+agréable (adjective) - pleasant
+aide (noun) - help
+aider (verb) - help
+aigu (adjective) - acute
+aiguille (noun, f) - needle
+aile (noun, f) - wing
+ailleurs (adverb) - elsewhere
+aimanter (verb) - magnet
+aimer (verb) - to like
+air (noun, m) - air
+aise (adjective) - easy
+aisé (adjective) - easy
+aisément (adverb) - easily
+ajouter (verb) - add
+alchimist (adjective) - alchemist
+alchimiste (noun, m) - alchemist
+aliment (noun, m) - food
+allai (noun, f) - allai
+allemand (adjective) - German
+aller (verb) - go
+allier (verb) - ally
+allonger (verb) - lengthen
+allongé (noun, m) - elongate
+allumer (verb) - to light up
+allée (noun, f) - aisle
+alourdir (adjective) - add weight
+alphabet (noun, m) - alphabet
+amarre (noun, f) - mooring
+ambiant (adjective) - ambient
+amener (verb) - to bring
+ami (noun, m) - friend
+amorcer (verb) - prime
+amour (noun, m) - love
+ample (adjective) - ample
+amuser (verb) - have fun
+an (noun, m) - year
+ancien (adjective) - ancient
+anglais (adjective) - English
+angle (noun, m) - corner
+angoisse (noun, f) - anguish
+animal (noun, m) - animal
+animer (verb) - animate
+annexia (adjective) - annexia
+annoncer (verb) - announce
+année (noun, f) - year
+anthracite (noun, f) - anthracite
+anthropologique (adjective) - anthropological
+antipode (noun, m) - antipode
+antique (adjective) - antique
+antiquité (noun) - antiquity
+antédiluvien (adjective) - antediluvian
+antéhistoriquer (verb) - prehistoric
+anéantir (verb) - annihilate
+aoalkirkja (adjective) - aoalkirkja
+août (noun, m) - august
+apaiser (verb) - to soothe
+apercevoir (verb) - to notice
+aplati (adjective) - flattened
+aplomb (noun, m) - plumb
+apparaître (verb) - appear
+appareil (noun, m) - device
+apparence (noun, f) - appearance
+apparition (verb) - appearance
+appartenir (verb) - belong
+appel (noun, m) - call
+appeler (verb) - to call
+application (noun, f) - application
+appliquer (verb) - apply
+apprendre (verb) - learn
+approche (noun, f) - approach
+approcher (verb) - approach
+approuver (verb) - approve
+approuverai (adjective) - I will approve
+appui (noun, m) - support
+appuyer (verb) - press
+appétit (noun, m) - appetite
+arborescent (adjective) - tree-like
+arbre (noun, m) - TREE
+arbuste (noun, m) - shrub
+arc (noun, m) - bow
+arceau (noun, m) - hoop
+architecte (noun) - architect
+arctique (adjective) - Arctic
+ardent (adjective) - ardent
+ardu (adjective) - arduous
+argent (noun, m) - money
+argument (noun, m) - argument
+aride (adjective) - arid
+arme (noun, f) - armed
+armée (noun, f) - army
+arpenter (verb) - survey
+arracher (verb) - to tear out
+arranger (adjective) - arrange
+arriver (verb) - arrive
+arrivée (noun, f) - arrival
+arrière (noun, f) - back
+arrondi (adjective) - rounded
+arrondir (verb) - round
+arrêt (noun, m) - stop
+arrêter (verb) - Stop
+art (noun, m) - art
+article (noun, m) - article
+articuler (verb) - articulate
+arête (noun, f) - fish bone
+ascension (noun, f) - ascent
+ascensionnel (noun, m) - ascensional
+aspect (noun, m) - appearance
+aspirer (adverb) - strive
+aspérité (noun, f) - roughness
+assaut (noun, m) - assault
+asseoir (verb) - sit
+assigner (verb) - assign
+associer (verb) - associate
+assombrir (adjective) - darken
+assoupissement (adverb) - drowsiness
+assourdissant (adverb) - deafening
+assurer (verb) - ensure
+astr (adjective) - astr
+astre (noun, m) - star
+atmosphère (noun, f) - atmosphere
+atmosphérique (adjective) - atmospheric
+atome (noun, m) - atom
+attache (verb) - attached
+attacher (adjective) - attach
+attaquer (verb) - tackle
+atteindre (verb) - reach
+atteint (adjective) - reached
+attendre (verb) - to wait for
+attention (noun, f) - attention
+attentivement (adverb) - carefully
+attester (verb) - attest
+attirer (verb) - attract
+attraction (noun, f) - attraction
+attribuer (verb) - assign
+aucun (pronoun) - none
+aucunement (adverb) - Not at all
+audace (adverb) - audacity
+audacieux (adjective) - bold
+augmenter (verb) - increase
+aujourd (adjective) - today
+auprès (adverb) - with
+aussitôt (adverb) - right away
+autant (adverb) - as much
+authenticité (noun, f) - authenticity
+autoriser (verb) - authorize
+autour (adverb) - around
+autrefois (verb) - formerly
+avalanche (noun, f) - avalanche
+avancer (verb) - move forward
+avenir (noun, m) - future
+aventure (noun, f) - adventure
+aventurer (verb) - venture
+aveugle (noun, m) - blind
+avidité (noun, f) - greed
+avion (noun, m) - plane
+avis (noun, m) - notice
+avoir (verb) - to have
+avouer (verb) - to confess to
+azuré (adjective) - azure
+aéronaute (noun, m) - aeronaut
+--- B ---
+bac (noun, m) - bac
+bagage (noun, m) - luggage
+baie (noun, f) - bay
+baigner (verb) - bathe
+bain (noun, m) - bath
+baiser (verb) - kiss
+baisser (verb) - lower
+baleine (noun, f) - whale
+balle (noun, f) - ball
+ballot (noun, m) - ballot
+banc (noun, m) - bench
+bande (noun, f) - band
+baptiser (verb) - baptize
+barnum (noun, m) - marquee
+baromètre (noun, m) - barometer
+baron (noun, m) - baron
+barque (noun, f) - boat
+barre (noun, f) - rod
+bas (adjective) - down
+basalte (noun, m) - basalt
+basaltique (adjective) - basaltic
+base (noun, f) - base
+bassin (noun, m) - basin
+bateau (noun, m) - boat
+batelier (noun, m) - boatman
+battre (verb) - beat
+beal (adjective) - beal
+beau (adjective) - beautiful
+beaucoup (adverb) - a lot
+beauté (noun, f) - beauty
+bel (adjective) - beautiful
+berger (noun, m) - shepherd
+besogne (noun, f) - task
+besoin (noun, m) - need
+beurre (noun, m) - butter
+bibliomane (noun, f) - bibliomaniac
+bibliothèque (noun, f) - library
+bien (adverb) - GOOD
+bienfaisant (adjective) - beneficial
+bientôt (adverb) - Soon
+bifurcation (noun, f) - bifurcation
+bifurquer (verb) - branch off
+biscuit (noun, m) - biscuit
+bizarre (adjective) - weird
+blanc (adjective) - white
+blesser (verb) - hurt
+bleu (adjective) - blue
+bloc (noun, m) - block
+blond (noun, m) - blond
+bobine (noun, f) - coil
+boire (verb) - drink
+bois (noun, m) - drink
+bombe (noun, f) - bomb
+bon (adjective) - Good
+bond (noun, m) - bond
+bondir (verb) - leap
+bonheur (noun, m) - happiness
+bonhomme (noun, m) - good man
+bonnement (adverb) - simply
+bonté (noun, f) - goodness
+bord (noun, m) - edge
+borner (verb) - boundary
+boréal (adjective) - boreal
+bouche (noun, f) - mouth
+boucher (verb) - butcher
+bouchée (noun, f) - bite
+boucler (verb) - to finish
+bouger (verb) - to move
+bouillonnant (adjective) - bubbling
+bouillonner (verb) - bubbling
+boule (noun, f) - ball 
+bouleau (noun, m) - birch
+bouleverser (verb) - upset
+bouquin (noun, m) - book
+bourgade (noun, f) - village
+bourse (noun, f) - sotck exchange 
+boussole (noun, f) - compass
+bout (noun, m) - end 
+bouteille (noun, f) - bottle
+branche (noun, f) - branch
+bras (noun, m) - arm
+brave (adjective) - brave
+brillant (adjective) - bright
+briller (verb) - shine
+brise (noun, f) - breeze
+briser (verb) - break
+brouillard (noun, m) - fog
+brouiller (verb) - scramble
+broussaille (noun, f) - brush
+bruit (noun, m) - noise
+brume (noun, f) - haze
+brumeux (adjective) - foggy
+brun (adjective) - brown
+brusque (noun, f) - sudden
+brusquement (adverb) - suddenly
+brutal (adjective) - brutal
+brûlant (adjective) - burning
+brûler (verb) - burn
+but (noun, m) - aim
+bâiller (verb) - yawn
+bâtiment (noun, m) - building
+bâtir (verb) - build
+bâton (noun, m) - stick
+bête (noun, f) - beast
+--- C ---
+cabane (noun, f) - hut
+cabine (noun, f) - cabin
+cabinet (noun, m) - office
+cache (verb) - hidden
+cacher (verb) - hide
+cadavre (verb) - corpse
+cadran (noun, m) - dial
+caillou (noun, m) - pebble
+caisse (noun, f) - box
+calcaire (noun, m) - limestone
+calciner (verb) - calcine
+calcul (noun, m) - calculation
+calculer (verb) - calculate
+calendes (noun, f) - calends
+calme (noun, m) - calm
+calmer (verb) - calm
+calotte (noun, f) - cap
+campagne (noun, f) - campaign
+canal (noun, m) - channel
+canne (noun, f) - cane
+canon (noun, m) - cannon
+canot (noun, m) - canoe
+cap (noun, m) - cap
+capable (adjective) - able
+capitaine (noun, m) - captain
+capitale (noun, f) - capital
+capricieux (adjective) - capricious
+carabine (noun, f) - rifle
+caractère (noun, m) - character
+carapace (noun, f) - shell
+caresser (verb) - caress
+cargaison (noun, f) - cargo
+carnet (noun, m) - notebook
+carrefour (noun, m) - crossroads
+carrière (noun, f) - career
+carte (noun, f) - map 
+cas (noun, m) - case
+cascade (noun, f) - cascade
+casser (verb) - to break
+cassure (noun, f) - break
+cataclysme (noun, m) - cataclysm
+cataract (adjective) - cataract
+catastrophe (noun, f) - disaster
+cathédrale (noun, f) - cathedral
+cauchemar (noun, m) - nightmare
+cause (noun, f) - cause
+causer (verb) - cause
+cavalier (noun, m) - rider
+cave (noun, f) - cellar
+caverne (noun, f) - cave
+cavité (noun, f) - cavity
+ceinture (noun, f) - belt
+cendre (noun, m) - ash
+cent (noun, m) - hundred
+centaine (noun, f) - hundred
+central (adjective) - central
+centre (noun, f) - center
+centupler (verb) - a hundredfold
+cercle (noun, m) - circle
+certainement (adverb) - certainly
+cerveau (noun, m) - brain
+cesse (noun, f) - ceases
+cesser (verb) - cease
+chaleur (noun, f) - heat
+chaleureux (adjective) - warm
+chambre (noun, f) - bedroom
+champ (noun, m) - field
+champignon (noun, m) - mushroom
+chance (noun, f) - chance
+changeant (adjective) - changing
+changement (noun, m) - change
+changer (verb) - to change
+chanter (verb) - sing
+chapeau (noun, m) - hat
+charbon (noun, m) - coal
+charge (noun, f) - charge
+charger (verb) - load
+charmant (adjective) - charming
+charpente (noun, f) - framework
+chasser (verb) - hunt
+chasseur (noun, m) - hunter
+chaud (adjective) - hot
+chaudière (noun, f) - boiler
+chauffer (verb) - heat
+chaussure (noun, f) - shoe
+chaussée (noun, f) - pavement
+chaîne (noun, f) - chain
+chemin (noun, m) - path
+cheminée (noun, f) - chimney
+cher (adjective) - Dear
+cherche (verb) - look for
+chercher (verb) - seek
+cheval (noun, m) - horse
+chevelure (noun, f) - hair
+cheveu (noun, m) - hair
+chiffre (noun, m) - figure
+chimie (noun, f) - chemistry
+chimique (adjective) - chemical
+choc (noun, m) - shock
+choisir (verb) - choose
+choix (noun, m) - choice
+chose (noun, f) - thing
+chronomètre (noun, m) - stopwatch
+chute (noun, f) - fall
+château (noun, m) - castle
+chêne (noun, m) - oak
+ciel (noun, m) - sky
+cime (noun, f) - summit
+cimetière (noun, m) - graveyard
+circonférence (noun, f) - circumference
+circonstance (noun, f) - circumstance
+circuler (verb) - circulate
+cité (noun, f) - quoted
+clair (adjective) - clear
+clarté (noun, f) - clarity
+classer (verb) - to classify
+clef (noun, f) - key
+climat (noun, m) - climate
+clocher (noun, m) - bell tower
+coadjuteur (noun, m) - coadjutor
+coeur (noun, m) - heart
+coin (noun, m) - corner
+colis (noun, m) - package
+collection (noun, f) - collection
+colline (noun, f) - hill
+collègue (noun) - colleague
+colonne (noun, f) - column
+coloré (adjective) - colored
+colossal (adjective) - colossal
+colère (noun, f) - anger
+combat (noun, m) - fight
+combattre (verb) - combat
+combinaison (noun, f) - combination
+combiner (verb) - combine
+combler (verb) - to fill in
+combustion (noun, f) - combustion
+commencement (noun, m) - beginning
+commencer (verb) - to start
+commerçant (adjective) - merchant
+commotion (noun, f) - concussion
+commun (adjective) - common
+commune (noun, f) - municipality
+communication (noun, f) - communication
+communiquer (verb) - communicate
+compagnie (noun, f) - company
+compagnon (noun, m) - companion
+comparaison (noun, f) - comparison
+comparer (verb) - compare
+compartiment (noun, m) - compartment
+compas (noun, f) - compass
+complet (adjective) - complete
+complètement (adverb) - completely
+composer (verb) - compose
+comprendre (verb) - to understand
+compresse (noun, f) - compress
+comprimé (noun, m) - compressed
+compte (verb) - account
+compter (verb) - count
+concentrer (verb) - focus
+concert (noun, m) - concert
+concevoir (verb) - design
+conclure (verb) - conclude
+conclusion (noun, f) - conclusion
+condensation (noun, f) - condensation
+condition (noun, f) - condition
+conductibilité (noun, f) - conductivity
+conduire (verb) - to drive
+conduit (noun, m) - conduit
+confirmer (verb) - confirm
+confondre (verb) - to confuse
+conformation (noun, f) - conformation
+conformer (verb) - conform
+confortable (noun, m) - comfortable
+confus (adjective) - confused
+conifère (noun, m) - coniferous
+connaissance (noun, f) - awareness
+connaître (verb) - to know
+conscience (noun, f) - awareness
+conservation (noun, f) - conservation
+conserver (verb) - preserve
+considérable (adjective) - considerable
+considérablement (adverb) - considerably
+considérer (verb) - consider
+consigne (verb) - order
+consigner (verb) - record
+consister (verb) - consist
+consonne (noun, f) - consonant
+constant (adjective) - constant
+conster (verb) - conster
+constituer (verb) - constitute
+construire (verb) - build
+consulte (verb) - consult
+consulter (verb) - to consult
+conséquemment (adverb) - consequently
+conséquent (noun) - therefore
+contact (noun, m) - contact
+contemplation (noun, f) - contemplation
+contempler (verb) - contemplate
+contemporain (adjective) - contemporary
+contenir (verb) - contain
+contenter (verb) - to satisfy
+contenu (noun, m) - content
+conter (verb) - story
+continu (noun, m) - continuous
+continuer (verb) - continue
+contourner (verb) - bypass
+contraction (noun, f) - contraction
+contraire (noun, m) - opposite
+contrarier (verb) - upset
+contre (noun) - against
+contredire (verb) - contradict
+contrefort (noun, m) - buttress
+contribuer (verb) - contribute
+contrée (noun, f) - region
+convaincre (verb) - convince
+convenir (verb) - agree
+conversation (noun, f) - conversation
+conviction (noun, f) - conviction
+convier (verb) - invite
+convoi (noun, m) - convoy
+convulsion (noun, f) - convulsion
+coquillage (noun, m) - shellfish
+coquille (noun, f) - shell
+corde (noun, m) - rope
+cordial (noun, m) - cordial
+corps (noun, m) - body
+correspondre (verb) - correspond
+cosmique (adjective) - cosmic
+costume (noun, m) - suit
+coton (noun, m) - cotton
+cou (noun, m) - neck
+couche (noun, f) - layer
+coucher (verb) - to sleep
+couchette (noun, f) - berth
+coude (noun, f) - elbow
+coule (verb) - flows
+couler (verb) - to flow
+couleur (noun, f) - color
+couloir (noun, m) - corridor
+coulée (noun, f) - pouring
+coup (noun, m) - cut
+couper (verb) - cut
+couple (noun, m) - couple
+courage (noun, m) - courage
+couramment (adverb) - fluently
+courant (adjective) - fluent
+courbe (verb) - curve
+courir (verb) - run
+cours (noun, m) - course
+course (noun, f) - race
+court (adjective) - short
+couver (verb) - cover
+couvert (adjective) - covered
+couverture (noun, f) - blanket
+couvrir (verb) - cover
+couvée (noun, f) - brood
+craindre (verb) - to fear
+crainte (noun, f) - fear
+crampe (noun, f) - cramp
+cramponner (verb) - cling on
+craquer (verb) - crack
+cratère (noun, m) - crater
+creuser (verb) - dig
+creux (adjective) - hollow
+crevasse (noun, f) - crevasse
+crevette (noun, f) - shrimp
+cri (noun, m) - cry
+crier (verb) - shout
+cristal (noun, m) - crystal
+crocodile (noun, m) - crocodile
+croire (verb) - believe
+croiser (verb) - cross
+croissant (adjective) - croissant
+croyant (adjective) - believer
+croître (adverb) - grow
+croûte (noun, f) - crust
+crustacé (noun, m) - crustacean
+cryptogramme (noun, m) - cryptogram
+crâne (noun, m) - skull
+création (noun, f) - creation
+créature (noun, f) - creature
+créer (verb) - create
+cuir (noun, f) - leather
+cuisine (noun, f) - kitchen
+cure (noun, f) - cure
+curieux (adjective) - curious
+curiosité (noun, m) - curiosity
+cygne (noun, m) - swan
+cylindrique (adjective) - cylindrical
+câble (noun, m) - cable
+céder (verb) - to sell
+célèbre (adjective) - famous
+cérémonie (noun, f) - ceremony
+cétacé (noun, m) - cetacean
+cône (noun, m) - cone
+côte (noun, f) - side
+côtoyer (verb) - to rub shoulders
+côté (noun, m) - side
+--- D ---
+danger (noun, m) - hazard
+dangereux (adjective) - dangerous
+danois (adjective) - Danish
+date (noun, f) - date
+davantage (adverb) - any further
+degré (noun, m) - degree
+demain (adverb) - tomorrow
+demandai (adjective) - I asked
+demande (noun, f) - request
+demander (verb) - ask
+demeure (noun, f) - remains
+demeurer (verb) - remain
+demi (adjective) - half
+demie (noun, f) - half
+dense (adjective) - dense
+densité (noun, f) - density
+dent (noun, m) - tooth
+dernier (adjective) - last
+descendant (noun, m) - descending
+descendre (verb) - to come down
+descente (noun, f) - descent
+dessein (noun, m) - design
+dessert (noun, f) - dessert
+dessiner (verb) - draw
+dessécher (verb) - dry out
+destiner (verb) - destined
+devenir (verb) - become
+deviner (verb) - guess
+devoir (verb) - duty
+diable (noun, m) - devil
+diamètre (noun, m) - diameter
+dicter (verb) - dictate
+dictée (noun, f) - dictation
+dieu (noun, m) - God
+difficile (adjective) - difficult
+difficilement (adverb) - with difficulty
+difficulté (noun, f) - difficulty
+diffus (verb) - diffuse
+diffusion (noun, f) - broadcast
+différence (noun, f) - difference
+différer (verb) - differ
+digne (adjective) - worthy
+dimanche (noun, m) - Sunday
+dimension (noun, f) - dimension
+diminuer (verb) - decrease
+diminution (noun, f) - decrease
+dire (verb) - say
+directeur (noun, m) - director
+direction (noun, f) - direction
+diriger (verb) - direct
+disai (noun, m) - I said
+discontinuer (adverb) - discontinue
+discours (noun, m) - speech
+discuter (verb) - discuss
+disjoindre (verb) - separate
+dislocation (noun, f) - dislocation
+disloquer (verb) - dislocate
+disparaître (verb) - disappear
+disparut (adjective) - disappeared
+disperser (verb) - disperse
+disposer (verb) - dispose
+disposition (noun, f) - arrangement
+disputer (verb) - dispute
+disque (noun, m) - disk
+dissiper (verb) - dispel
+distance (noun, f) - distance
+distinctement (adverb) - distinctly
+distinguer (verb) - distinguish
+distribuer (verb) - distribute
+diviser (verb) - divide
+dixième (noun, f) - tenth
+dizaine (noun, f) - ten
+diète (noun, f) - diet
+document (noun, m) - document
+doigt (noun, m) - finger
+dominer (verb) - dominate
+donne (verb) - given
+donner (verb) - give
+dormir (verb) - sleep
+dos (noun, m) - back
+double (adjective) - double
+doucement (adverb) - gently
+douleur (noun, f) - pain
+douloureux (adjective) - painful
+doute (noun, m) - doubt
+douter (verb) - doubt
+douteux (adjective) - dubious
+doux (adjective) - soft
+doué (adjective) - gifted
+dresse (verb) - dress
+dresser (verb) - train
+droit (noun, m) - right
+droite (noun, f) - RIGHT
+dur (adjective) - hard
+durer (verb) - last
+dureté (noun, f) - hardness
+durée (noun, f) - duration
+duvet (noun, f) - down
+déborder (verb) - overflow
+débris (noun, m) - debris
+début (noun, m) - beginning
+décharger (verb) - unload
+déchaîner (verb) - unleash
+déchaîné (adjective) - unleashed
+déchirer (verb) - rip
+décider (verb) - decide
+déclinaison (noun, f) - declination
+décliner (verb) - decline
+décoloré (adjective) - discolored
+découverte (noun, f) - discovery
+découvrir (verb) - discover
+décrire (verb) - describe
+dédaigner (verb) - disdain
+déduction (noun, f) - deduction
+défaire (verb) - undo
+défaut (noun, m) - default
+défense (noun, f) - defense
+dégager (verb) - clear
+dégoût (noun, m) - disgust
+dégringoler (verb) - to tumble
+déjection (noun, f) - excrement
+déjeuner (noun, m) - lunch
+déjeunon (noun, m) - lunch
+délicat (adjective) - delicate
+délicieux (adjective) - delicious
+délire (noun, m) - delirium
+démontrer (verb) - demonstrate
+dénomination (noun, f) - denomination
+dénûment (noun, m) - destitution
+départ (noun, m) - departure
+dépasser (verb) - exceed
+dépense (noun, f) - spent
+dépit (noun, m) - spite
+déplacer (verb) - move
+déployer (verb) - deploy
+déposer (verb) - deposit
+dépouillé (adjective) - stripped
+dépourvu (adjective) - lacking
+déranger (verb) - to disturb
+dérober (verb) - steal
+dérouler (verb) - unroll
+désagréable (adjective) - unpleasant
+désaltérer (verb) - quench thirst
+désert (adjective) - desert
+déserte (noun, f) - deserted
+désespoir (verb) - despair
+désespérer (verb) - to despair
+désigner (verb) - designer
+désir (noun, m) - desire
+désirer (verb) - desire
+désordre (noun, m) - mess
+détacher (verb) - detach
+détail (noun, m) - detail
+détendre (verb) - relax
+déterminer (verb) - determine
+détonation (noun, f) - detonation
+détour (noun, m) - detour
+détourner (verb) - divert
+détroit (noun, m) - strait
+détruire (verb) - destroy
+développement (noun, m) - development
+développer (verb) - develop
+dévonien (adjective) - Devonian
+dévorer (verb) - devour
+dévouer (verb) - devote
+dîner (noun, m) - dinner
+dôme (noun, m) - dome
+--- E ---
+eau (noun, f) - water
+effacer (verb) - to erase
+effectuer (verb) - perform
+effet (noun, m) - effect
+effleurer (verb) - touch
+effluve (noun, f) - scent
+effort (noun, m) - effort
+effrayant (adjective) - scary
+effrayante (noun, f) - frightening
+effrayer (verb) - frighten
+effrayé (adjective) - afraid
+effroi (noun, m) - terror
+effroyable (adjective) - terrifying
+eider (verb) - eider
+elseneur (noun, m) - elsener
+embarcation (noun, f) - boat
+embarquer (verb) - embark
+embarras (noun, m) - embarrassment
+embarrasser (verb) - embarrass
+embrasser (verb) - to kiss
+emmener (verb) - take away
+empanacher (verb) - plume
+emparer (verb) - seize
+empire (noun, m) - empire
+emplir (verb) - fill
+employer (verb) - use
+emportement (noun, m) - outburst
+emporter (verb) - take away
+empreinte (noun, f) - footprint
+empressement (noun, m) - eagerness
+emprisonner (verb) - imprison
+empêcher (verb) - to prevent
+enchanté (adjective) - delighted
+encombrer (verb) - clutter
+encr (adjective) - ink
+endormir (verb) - put to sleep
+endroit (noun, m) - place
+enduit (noun, m) - coating
+enfant (noun, f) - child
+enfermer (verb) - lock up
+enflammer (verb) - ignite
+enfoncer (verb) - push in
+enfouir (verb) - bury
+enfuir (verb) - flee
+engagement (noun, m) - commitment
+engager (verb) - engage
+engin (noun, m) - machine
+engouffrer (verb) - engulf
+enjambée (noun, f) - stride
+enlacer (verb) - embrace
+ennemi (noun, m) - enemy
+ennui (noun, m) - boredom
+enrouler (verb) - wrap
+ensemble (noun, m) - together
+ensuite (adverb) - Next
+entaille (noun, f) - notch
+entamer (verb) - start
+entasser (verb) - pile up
+entendre (verb) - hear
+enterrer (verb) - bury
+enthousiasme (noun, m) - enthusiasm
+enthousiaste (adjective) - enthusiastic
+entier (adjective) - entire
+entièrement (adverb) - entirely
+entourer (verb) - surround
+entrailles (noun, m) - entrails
+entraîner (verb) - train
+entremêler (adjective) - intertwine
+entreprendre (verb) - undertake
+entreprise (noun, f) - business
+entrer (verb) - enter
+entretien (noun, m) - interview
+entrevoir (verb) - glimpse
+entrée (noun, f) - entrance
+entêtement (adverb) - stubbornness
+entêter (verb) - stubborn
+envahir (verb) - invade
+envelopper (verb) - wrap
+enviai (adjective) - envy
+envie (noun, f) - envy
+envieux (adjective) - envious
+environ (noun, m) - approximately
+environnant (adjective) - surrounding
+envoler (verb) - fly away
+envoyer (verb) - send
+errer (verb) - wander
+erreur (noun, m) - error
+escalier (noun, m) - stairs
+escarpé (adjective) - steep
+espace (noun, m) - space
+espagnol (noun, m) - Spanish
+espoir (noun, m) - hope
+esprit (noun, m) - spirit
+espèce (noun, f) - species
+espérance (noun, f) - hope
+espérer (verb) - hope
+essayer (verb) - to try
+estime (verb) - estimated
+estimer (verb) - estimate
+estomac (adjective) - stomach
+estomper (verb) - fade
+esturgeon (noun, m) - sturgeon
+exact (adjective) - exact
+examen (noun, m) - exam
+examiner (verb) - examine
+excavation (noun, f) - excavation
+excellent (adjective) - excellent
+excessif (adjective) - excessive
+exciter (verb) - excite
+exclamation (noun, f) - exclamation
+excursion (noun, f) - excursion
+exemple (noun, m) - example
+exercer (verb) - exercise
+exercice (noun, m) - exercise
+existence (noun, f) - existence
+exister (verb) - exist
+explication (noun, f) - explanation
+expliquer (verb) - explain
+exploitation (noun, f) - exploitation
+explosion (noun, f) - blast
+exposer (verb) - expose
+expression (noun, f) - expression
+exprimer (verb) - express
+expulser (verb) - expel
+expédition (noun, f) - shipping
+expérience (noun, f) - experience
+extraordinaire (adjective) - extraordinary
+extrémiter (verb) - extremity
+extrémité (noun, m) - end
+extrême (adjective) - extreme
+extumescence (noun, f) - extumescence
+extérieur (adjective) - outside
+--- F ---
+face (noun, f) - face
+facette (noun, f) - facet
+facial (adjective) - facial
+facile (adjective) - easy
+facilement (adverb) - easily
+faciliter (verb) - facilitate
+facilité (noun, f) - ease
+faculté (noun, f) - faculty
+faible (adjective) - weak
+faiblesse (noun, f) - weakness
+faille (noun, f) - flaw
+faillir (verb) - fail
+faim (verb) - hunger
+faire (verb) - TO DO
+faisceau (noun, m) - beam
+fait (noun, m) - do
+falloir (verb) - to need
+fameux (adjective) - famous
+famille (noun, f) - family
+fantastique (adjective) - fantastic
+farouche (adjective) - fierce
+fatalité (noun, f) - fatality
+fatigant (adjective) - tiring
+fatigue (noun, f) - fatigue
+fatiguer (verb) - tired
+fatigué (adjective) - fatigue
+faut (adjective) - must
+fauteuil (noun, m) - armchair
+faux (adjective) - fake
+favorable (adjective) - favorable
+favoriser (verb) - to favor
+femelle (noun, f) - female
+femme (noun, f) - women
+fent (adjective) - fen
+fente (noun, f) - slot
+fenêtre (noun, f) - window
+fer (noun, m) - iron
+ferme (adjective) - farm
+fermer (verb) - close
+fermier (noun, m) - farmer
+ferrer (verb) - shoe
+ferrugineux (adjective) - ferruginous
+ferré (adjective) - iron
+feu (noun, m) - fire
+feuillage (noun, m) - foliage
+feuille (noun, f) - leaf
+feuillet (noun, f) - leaflet
+fiancée (noun, f) - fiancee
+fidèle (adjective) - faithful
+fier (verb) - proud
+figure (noun, f) - figure
+figurer (verb) - figure
+fil (noun, m) - thread
+file (noun, m) - file
+filer (verb) - spin
+fille (noun, f) - girl
+filon (noun, m) - vein
+fin (noun) - END
+finir (verb) - finish
+fissure (noun, f) - crack
+fixe (verb) - fixed
+fixer (verb) - fix
+fièvre (noun, f) - fever
+fiévreux (adjective) - feverish
+fjörd (noun, m) - fjord
+flacon (noun, m) - bottle
+flamme (noun, f) - flame
+flanc (noun, m) - flank
+fleur (noun, f) - flower
+fleuve (noun, m) - river
+flore (noun, f) - flora
+flot (noun, m) - float
+flottant (adjective) - floating
+flotter (verb) - float
+fluide (noun) - fluid
+flux (noun, m) - flow
+flèche (noun, f) - arrow
+foi (noun, f) - faith
+fois (noun, f) - times
+folie (noun, f) - madness
+fonctionner (verb) - function
+fond (noun, m) - bottom
+fondre (verb) - melt
+force (noun, f) - strength
+forcer (verb) - force
+forcément (adverb) - necessarily
+formation (noun, f) - training
+forme (noun, f) - shape
+former (verb) - form
+formidable (adjective) - tremendous
+formuler (verb) - formulate
+fort (adverb) - strong
+fortement (adverb) - strongly
+forêt (noun, m) - forest
+fossile (adjective) - fossil
+fossilisé (adjective) - fossilized
+fou (adjective) - mad
+foudre (noun, f) - lightning
+fouet (noun, m) - whip
+fougueux (adjective) - fiery
+fougère (noun, f) - fern
+fouiller (verb) - rummage
+fouler (verb) - tread
+fourneau (noun, m) - furnace
+fournir (verb) - provide
+fourrage (noun, m) - feed
+foyer (noun, m) - hearth
+fracas (noun, m) - crash
+fracture (noun, f) - fracture
+fragile (adjective) - fragile
+frais (noun, m) - costs
+franchir (adjective) - cross
+français (noun, m) - French
+frapper (verb) - hit
+frayer (verb) - spawn
+fraîchir (adjective) - refresh
+frisson (noun, m) - thrill
+frissonnement (noun, m) - shiver
+frissonner (verb) - shiver
+froid (adjective) - cold
+froncer (verb) - frown
+front (noun, m) - forehead
+frotter (verb) - rub
+fruit (noun, m) - fruit
+frégate (noun, f) - frigate
+frémissant (adjective) - quivering
+frénétiquement (adverb) - frantically
+fréquemment (adverb) - frequently
+fréquent (adjective) - frequent
+fucus (noun, f) - fucus
+fugitif (adjective) - fugitive
+fuir (verb) - flee
+fuite (noun, f) - leak
+fulmi (noun, f) - fulmi
+fumerolle (noun, f) - fumarole
+fumée (noun, f) - smoke
+fureur (noun, f) - fury
+furie (noun, f) - fury
+fusil (noun, m) - gun
+fusion (noun, f) - merger
+futur (adjective) - future
+fébrile (adjective) - febrile
+fécond (adjective) - fruitful
+fémur (noun, m) - femur
+féroce (adjective) - fierce
+fête (noun, f) - party
+förlorad (verb) - förlorad
+--- G ---
+gagner (verb) - earn
+gai (adjective) - cheerful
+galerie (noun, f) - gallery
+gamin (noun, m) - kid
+garde (noun) - guard
+garder (verb) - keep
+gare (noun, f) - station
+garnir (verb) - garnish
+garçon (noun, m) - boy
+gauche (noun, f) - LEFT
+gaz (noun, m) - gas
+gazeux (adjective) - gaseous
+gazon (noun, m) - grass
+genièvre (noun, m) - juniper
+genou (noun, m) - knee
+genre (noun, m) - gender
+gerbe (noun, f) - sheaf
+geste (noun, m) - gesture
+gesticuler (verb) - gesticulate
+geyser (adverb) - geyser
+gigantesque (adjective) - gigantic
+giratoire (adjective) - roundabout
+glace (noun, f) - ice
+glacier (noun, m) - glacier
+glacé (adjective) - ice
+glisse (verb) - glides
+glisser (verb) - slide
+globe (noun, m) - globe
+gloire (noun, f) - glory
+gneiss (noun, m) - gneiss
+gonfler (verb) - swell
+gorgée (noun, f) - sip
+gosier (noun, f) - throat
+gouffre (noun, m) - abyss
+gourde (noun, f) - gourd
+goutte (noun, f) - drop
+gouvernail (noun, m) - rudder
+gouvernement (noun, m) - government
+gouverneur (noun, m) - governor
+goélette (noun, f) - schooner
+goût (noun, m) - taste
+goûter (noun, m) - to taste
+grand (adjective) - big
+grandeur (adverb) - size
+granit (noun, f) - granite
+granitique (adjective) - granite
+grappe (noun, f) - cluster
+grave (adjective) - severe
+graver (verb) - engrave
+gravir (verb) - climb
+gravité (noun, f) - gravity
+graüben (verb) - gray
+grec (adjective) - Greek
+grimoir (adjective) - grimoire
+grimper (verb) - climb
+gris (adjective) - gray
+grisâtre (adjective) - greyish
+gros (adjective) - fat
+grosseur (noun, f) - size
+grossier (adjective) - rude
+grotte (noun, f) - cave
+grouiller (verb) - swarm
+groupe (noun, m) - band
+grouper (verb) - group
+grâce (noun, f) - grace
+grès (noun, m) - sandstone
+grève (noun, f) - strike
+gré (noun, m) - willingly
+gueule (noun, f) - mouth
+guide (noun, m) - guide
+guider (verb) - to guide
+guirlande (noun, f) - garland
+guère (adverb) - hardly
+gué (noun, m) - ford
+guérir (verb) - heal
+guérison (noun, f) - healing
+géant (noun, m) - giant
+gémissement (noun, m) - groan
+génie (noun, m) - genius
+général (noun, m) - general
+génération (noun, f) - generation
+géode (noun, f) - geode
+géographique (adjective) - geographical
+géologique (adjective) - geological
+géologue (noun, m) - geologist
+--- H ---
+habile (adjective) - skillful
+habiller (verb) - dress
+habitant (noun, m) - inhabitant
+habitation (noun, f) - dwelling
+habiter (verb) - live
+habitude (noun, f) - habit
+habituel (adjective) - usual
+habituer (verb) - habituate
+habité (adjective) - reside
+hache (noun, f) - ax
+hagard (adjective) - haggard
+haleter (verb) - panting
+hallucination (noun, f) - hallucination
+halte (noun, f) - stop
+hameau (noun, m) - hamlet
+hameçon (noun, m) - hook
+han (noun, m) - han
+hans (verb) - Hans
+hardi (noun, m) - bold
+harmonieux (adjective) - harmonious
+hasard (noun, m) - chance
+hasarder (verb) - risk
+hausser (verb) - raise
+haut (adjective) - high
+hauteur (noun, f) - height
+herbe (noun, f) - grass
+heure (noun, f) - hour
+heureusement (adverb) - Fortunately
+heureux (adjective) - happy
+heurter (verb) - hit
+hisser (verb) - hoist
+histoire (noun, f) - history
+homm (adjective) - man
+homme (noun, m) - man
+honneur (noun, m) - honor
+honte (noun, f) - shame
+horizon (adjective) - horizon
+horizontal (adjective) - horizontal
+horizontalement (adverb) - horizontally
+horizontalité (adjective) - horizontality
+horreur (noun, m) - horror
+horrible (adjective) - horrible
+hospitalité (noun, f) - hospitality
+houille (noun, f) - coal
+houillère (noun, f) - coal mine
+humain (adjective) - human
+humanité (noun, f) - humanity
+humble (adjective) - humble
+humeur (noun, f) - mood
+humide (adjective) - humid
+humidité (noun, f) - humidity
+hutte (noun, f) - hut
+hypothèse (noun, f) - assumption
+hâter (verb) - hasten
+hérisser (adverb) - bristle
+héros (noun, m) - hero
+héroïque (adjective) - heroic
+hésiter (verb) - hesitate
+hôpital (noun, m) - hospital
+hôt (adjective) - hotel
+hôte (noun, m) - host
+hôtel (noun, m) - hotel
+hôtess (adjective) - hosts
+--- I ---
+ici (adverb) - here
+identique (adjective) - identical
+idiome (noun, m) - idiom
+idée (noun, f) - idea
+ignorer (verb) - ignore
+illusion (noun, f) - illusion
+illustre (verb) - illustrated
+imaginaire (adjective) - imaginary
+imagination (noun, f) - imagination
+imaginer (verb) - imagine
+immense (adjective) - immense
+immensité (adjective) - immensity
+immobile (noun, m) - motionless
+immédiat (adjective) - immediate
+immédiatement (adverb) - immediately
+impassible (adjective) - impassive
+impatience (noun, f) - impatience
+impatient (noun, m) - impatient
+impitoyable (adjective) - ruthless
+implorer (verb) - implore
+importance (verb) - importance
+important (adjective) - important
+importer (verb) - import
+impossibilité (adjective) - impossibility
+impossible (adjective) - impossible
+impraticable (adjective) - impracticable
+impression (noun, f) - impression
+improviser (verb) - improvise
+imprudent (adjective) - careless
+imprévu (adjective) - unexpected
+impuissant (adjective) - powerless
+impénétrable (adjective) - impenetrable
+inanition (noun, f) - starvation
+inappréciable (adjective) - invaluable
+inattendu (adjective) - unexpected
+incandescent (adjective) - incandescent
+incapable (adjective) - unable
+incendie (noun, m) - fire
+incertain (adjective) - uncertain
+incessamment (adverb) - incessantly
+incident (noun, m) - incident
+inclinaison (noun, f) - inclination
+incliner (verb) - tilt
+incommensurable (adjective) - immeasurable
+incomparable (adjective) - incomparable
+incomplet (adjective) - incomplete
+incompréhensible (adjective) - incomprehensible
+inconnu (adjective) - unknown
+incontestable (adjective) - indisputable
+incontestablement (adverb) - undoubtedly
+incruster (verb) - inset
+incrédule (noun, m) - incredulous
+incrédulité (noun, f) - incredulity
+indescriptible (adjective) - indescribable
+indication (noun, f) - indication
+indice (noun, m) - hint
+indifférence (noun, f) - indifference
+indifférent (adjective) - indifferent
+indignation (noun, f) - indignation
+indigne (adjective) - unworthy
+indigène (adjective) - native
+indique (verb) - noted
+indiquer (verb) - indicate
+indolent (adjective) - indolent
+induction (adjective) - induction
+indécis (adjective) - undecided
+indéfiniment (adverb) - indefinitely
+inerte (adjective) - inert
+inespéré (adjective) - unexpected
+inexplicable (adjective) - inexplicable
+inextricable (adjective) - inextricable
+infect (adjective) - infect
+infini (adjective) - infinity
+infirmité (noun, f) - infirmity
+inflammable (adjective) - flammable
+influence (noun, f) - influence
+infranchissable (adjective) - impassable
+inférieur (adjective) - lower
+ingénieux (adjective) - ingenious
+inhabité (adjective) - uninhabited
+innocent (noun, m) - innocent
+innombrable (adjective) - innumerable
+inondation (noun, f) - flood
+inonder (verb) - flood
+inopinément (adverb) - unexpectedly
+inquiet (verb) - worried
+inquiétant (adjective) - worrying
+inquiéter (verb) - worry
+inquiétude (noun, f) - worry
+insensibilité (noun, f) - insensitivity
+insensible (adjective) - insensitive
+insensé (adjective) - insane
+insister (verb) - insist
+insoluble (adjective) - insoluble
+insondable (adjective) - unfathomable
+installer (verb) - install
+instant (noun, m) - instant
+instinct (adverb) - instinct
+instruire (verb) - instruct
+instrument (adjective) - instrument
+insu (adjective) - unaware
+intact (adjective) - intact
+intelligence (noun, f) - intelligence
+intelligent (adjective) - clever
+intelligible (adjective) - intelligible
+intense (noun, f) - intense
+intensité (noun, f) - intensity
+interlocuteur (noun, m) - interlocutor
+interminable (adjective) - endless
+interne (adjective) - internal
+interroger (verb) - question
+interrompre (verb) - interrupt
+interstice (noun, m) - gap
+intervenir (verb) - to intervene
+introduire (verb) - introduce
+intéressant (adjective) - interesting
+intéresser (verb) - interest
+intérieur (noun, m) - interior
+intérêt (noun, m) - interest
+inutile (adjective) - useless
+invariablement (adverb) - invariably
+inventer (verb) - invent
+invention (noun, f) - invention
+invincible (adjective) - invincible
+involontaire (adjective) - involuntary
+involontairement (adverb) - involuntarily
+inégal (adjective) - unequal
+irascible (adjective) - irascible
+irradiation (noun, f) - irradiation
+irritation (noun, f) - irritation
+irrité (adverb) - irritated
+irrégulier (adjective) - irregular
+irréparable (adjective) - irreparable
+island (adjective) - island
+islandais (adjective) - Icelandic
+islande (noun) - Iceland
+isolement (noun, m) - isolation
+issu (adjective) - issue
+issue (noun, f) - issue
+italien (adjective) - Italian
+--- J ---
+jamais (adverb) - Never
+jambe (noun, f) - leg
+jarret (noun, f) - ham hock
+jaune (adjective) - YELLOW
+jet (noun, m) - jet
+jeter (verb) - throw
+jeu (noun, m) - game
+jeudi (noun, m) - THURSDAY
+jeune (adjective) - young
+joie (noun, f) - joy
+joindre (verb) - join
+joli (adjective) - pretty
+joue (verb) - plays
+jouer (verb) - play
+jouet (noun, m) - toy
+jouir (verb) - enjoy
+jouissance (noun, f) - enjoyment
+jour (noun, m) - day
+journal (noun, m) - newspaper
+journée (noun, f) - daytime
+juge (noun, m) - judge
+juger (verb) - judge
+juillet (noun, m) - July
+juin (noun, m) - June
+jurassique (adjective) - Jurassic
+jurer (verb) - swear
+juron (noun, m) - oath
+justement (adverb) - exactly
+justifier (verb) - justify
+--- L ---
+labyrinthe (noun, m) - labyrinth
+lac (noun, m) - lake
+laine (noun, f) - wool
+laisse (verb) - leave alone
+laisser (verb) - to leave 
+lait (noun, m) - milk
+lame (noun, f) - blade
+lampe (noun, f) - lamp
+lancer (verb) - throw
+langue (noun, f) - language
+lanterne (noun, f) - lantern
+large (adjective) - wide
+largement (adverb) - widely
+largeur (noun, f) - width
+larme (noun, f) - tear
+latin (adjective) - Latin
+latitude (noun, f) - latitude
+lav (adjective) - wash
+lave (noun, m) - washed
+laver (verb) - wash
+lendemain (noun, m) - the following day
+lent (adjective) - slow
+lentement (adverb) - slowly
+leptotherium (noun, m) - leptotherium
+lettre (noun, f) - letter
+lever (verb) - lift
+leçon (noun, f) - lesson
+liberté (noun, f) - freedom
+libre (adjective) - free
+lier (verb) - bind
+lieu (noun, m) - place
+lieue (adjective) - league
+ligne (noun, f) - line
+lignite (noun, m) - lignite
+limite (noun, f) - limit
+liqueur (noun, f) - liqueur
+liquide (adjective) - liquid
+liquidité (noun, f) - liquidity
+lire (verb) - read
+lisièr (adjective) - manure
+lit (noun, m) - bed
+literie (noun, f) - bedding
+littéraire (adjective) - literary
+livre (noun, m) - book
+livrer (verb) - deliver
+locomotion (noun, f) - locomotion
+logique (adjective) - logic
+loi (noun, f) - law
+loin (adverb) - far
+lointain (adjective) - distant
+lointainer (verb) - distant
+long (adjective) - long
+longer (verb) - longer
+longueur (noun, f) - length
+lorsqu (adverb) - when
+loupe (noun, f) - magnifying glass
+lourd (adjective) - heavy
+lueur (noun, f) - glow
+lumineux (adjective) - bright
+lumière (noun, f) - light
+lundi (noun, m) - Monday
+lune (noun, f) - moon
+lunette (noun, f) - telescope
+lutte (noun, f) - struggle
+lutter (verb) - to struggle against
+lycopode (noun, m) - clubmoss
+lâcher (adjective) - let go
+lèvre (noun, f) - lip
+lécher (verb) - lick
+légendaire (adjective) - legendary
+léger (adjective) - light
+légèrement (adverb) - slightly
+lézard (noun, m) - lizard
+--- M ---
+machinalement (adverb) - mechanically
+machine (noun, f) - machine
+macule (noun, f) - stain
+magnifique (adjective) - Magnificent
+magnétique (adjective) - magnetic
+mai (noun, m) - may
+maigre (noun, m) - skinny
+main (noun, f) - hand
+maintenir (verb) - maintain
+maire (noun, m) - mayor
+maison (noun, f) - House
+mal (noun, m) - wrong
+malade (adjective) - sick
+malaise (noun, m) - faintness
+malheur (noun, m) - misfortune
+malheureux (adjective) - unfortunate
+malle (noun, f) - trunk
+mammifère (noun) - mammal
+mammouth (noun, m) - mammoth
+manganèse (noun, m) - manganese
+manger (verb) - eat
+manier (verb) - handle
+manière (noun, f) - manner
+manoeuvre (noun, f) - maneuver
+manoeuvrer (noun, f) - maneuver
+manomètre (noun, m) - manometer
+manque (verb) - lack
+manquer (verb) - miss
+manuscrit (noun, m) - manuscript
+marbre (noun, m) - marble
+marchand (noun, m) - merchant
+marchander (adjective) - bargaining
+marche (noun, m) - walk
+marcher (verb) - to walk
+marché (noun, m) - walk
+mardi (noun, m) - Tuesday
+mariage (noun, m) - marriage
+marin (adjective) - marine
+marine (noun, f) - marine
+mark (noun, m) - mark
+marmot (noun, m) - marmot
+marque (noun, f) - brand
+marquer (verb) - mark
+marsouin (noun, m) - porpoise
+marteau (noun, m) - hammer
+marthe (noun, f) - Martha
+marécageux (adjective) - marshy
+marée (noun, f) - tide
+masse (noun, f) - mass
+massif (noun, m) - massive
+mastodonte (noun, m) - mastodon
+masure (noun, f) - hovel
+mat (adjective) - mast
+mathématique (adjective) - mathematical
+matin (noun, m) - Morning
+matière (noun, f) - matter
+maudire (adjective) - curse
+mauvais (adjective) - bad
+maître (noun, m) - master
+megatherium (noun, m) - megatherium
+meilleur (adjective) - best
+membre (noun, m) - member
+menace (noun, f) - threat
+menacer (verb) - threaten
+menaçant (adjective) - threatening
+mener (verb) - carry out
+mentir (verb) - lie
+mer (noun, f) - sea
+mercredi (noun, m) - Wednesday
+mericotherium (noun, m) - mericotherium
+merveill (adjective) - marvel
+merveille (noun, f) - wonder
+merveilleux (adjective) - wonderful
+mesure (verb) - measure
+mesurer (verb) - measure
+mettre (verb) - put
+mi (adjective) - mid
+mica (noun, m) - mica
+micaschiste (noun, f) - mica schist
+midi (noun, m) - noon
+mieux (noun, m) - better
+milieu (noun, m) - medium
+mille (noun, f) - thousand
+millier (noun, m) - thousand
+millimètre (noun) - millimeter
+million (noun, m) - million
+mince (adjective) - thin
+mine (noun, f) - mine
+mineur (noun, m) - minor
+minuit (noun, m) - midnight
+minute (noun, f) - minute
+minéral (noun, m) - mineral
+minéralisation (noun, f) - mineralization
+minéralogie (noun, f) - mineralogy
+minéralogique (adjective) - mineralogical
+minéralogiste (noun, m) - mineralogist
+miracle (noun, m) - miracle
+misérable (adjective) - miserable
+moderne (adjective) - modern
+modeste (adjective) - modest
+modification (noun, f) - modification
+modifier (verb) - to modify
+modérer (verb) - moderate
+modérément (adverb) - moderately
+moindre (adjective) - lesser
+mois (noun, m) - month
+moisson (noun, f) - harvest
+moitié (pronoun) - half
+mollusque (noun, m) - mollusc
+molécule (noun, f) - molecule
+moment (noun, m) - moment
+monde (noun, m) - world
+monnaie (noun, f) - cash
+monotone (adjective) - monotonous
+monotonie (noun, f) - monotony
+monsieur (noun, m) - Sir
+monstre (noun, m) - monster
+monstrueux (adjective) - monstrous
+mont (noun, m) - mount
+montagnard (adverb) - mountain dweller
+montagne (noun, f) - mountain
+monte (verb) - mounted
+monter (verb) - to go up
+montre (noun, f) - watch
+montrer (verb) - to show
+monture (noun, f) - mount
+morceau (noun, m) - piece
+mordre (verb) - to bite
+morne (verb) - dreary
+mort (noun, m) - dead
+mortel (adjective) - mortal
+mot (noun, m) - word
+motif (noun, m) - pattern
+mouiller (verb) - wet
+moulin (noun, m) - mill
+mourir (verb) - die
+mousse (adjective) - mousse
+mouton (noun, m) - sheep
+mouvant (adjective) - moving
+mouvement (noun, m) - movement
+moyen (noun, m) - AVERAGE
+moyenne (noun, f) - average
+muet (verb) - mute
+mugissement (noun, m) - roar
+multiplier (verb) - multiply
+mur (noun, m) - wall
+muraille (noun, m) - wall
+murmure (verb) - murmur
+murmurer (verb) - whisper
+muscle (noun, m) - muscle
+musée (noun, m) - museum
+muséum (noun, m) - museum
+mutisme (noun, m) - muteness
+mystification (noun, f) - mystification
+mystérieux (adjective) - mysterious
+mythologie (noun, f) - mythology
+mythologique (adjective) - mythological
+mâchoire (noun, f) - jaw
+mât (noun, m) - mast
+mèche (noun, f) - wick
+mère (noun, f) - mother
+mécanique (adjective) - mechanical
+méchant (noun, m) - wicked
+médecin (noun, m) - doctor
+mégère (noun, f) - shrew
+mélancolique (adjective) - melancholy
+mélanger (verb) - mix
+mémoire (noun, f) - memory
+ménager (verb) - household
+ménagerie (noun, f) - menagerie
+méprendre (verb) - misunderstanding
+méridional (adjective) - southern
+métal (noun, m) - metal
+métallique (adjective) - metallic
+métier (noun, m) - job
+mêler (verb) - mix
+--- N ---
+nageoire (noun, f) - fin
+nager (verb) - swim
+nappe (noun, f) - tablecloth
+nation (noun, f) - nation
+national (adjective) - national
+naturaliste (noun, m) - naturalist
+nature (noun, f) - nature
+naturel (noun, m) - natural
+naufrage (noun, m) - shipwreck
+naufragé (noun, m) - shipwrecked
+navigation (noun, f) - navigation
+navire (noun, m) - ship
+naître (verb) - to be born
+naïade (noun, f) - naiad
+nef (noun, m) - nave
+neige (noun, f) - snow
+nerf (noun, m) - nerve
+net (adjective) - net
+nettement (adverb) - clearly
+neuf (adjective) - nine
+neveu (noun, m) - nephew
+nez (noun, m) - nose
+nid (noun, m) - nest
+nier (verb) - deny
+niveau (noun, m) - level
+noeud (adjective) - node
+noir (adjective) - black
+noirâtre (adjective) - blackish
+nom (noun, m) - name
+nombre (noun, m) - number
+nomenclature (noun, f) - nomenclature
+nommer (verb) - appoint
+non (adverb) - No
+nord (noun, m) - north
+notable (adjective) - notable
+note (noun, f) - note
+noter (verb) - note
+nourrir (verb) - to feed
+nourriture (noun, f) - food
+nouveau (adjective) - new
+noyau (noun, m) - core
+noyer (verb) - walnut
+nu (noun) - naked
+nuage (noun, m) - cloud
+nuance (noun, f) - shade
+nuit (noun, f) - night
+numéro (noun, m) - number
+nécessaire (adjective) - necessary
+nécessairement (adverb) - necessarily
+nécessité (noun, f) - need
+négociant (noun, m) - trader
+--- O ---
+objection (noun, f) - objection
+objet (noun, m) - object
+obliger (verb) - to obligate
+obscur (adjective) - obscure
+obscurité (noun, f) - darkness
+observation (noun, f) - observation
+observer (verb) - observe
+obstacle (noun, m) - obstacle
+obstinémer (verb) - stubborn
+obstruer (verb) - obstruct
+obtenir (verb) - get
+obéir (verb) - obey
+occasion (verb) - occasion
+occidental (adjective) - western
+occupation (noun, f) - occupation
+occuper (verb) - occupy
+océan (noun, f) - ocean
+odeur (noun, f) - smell
+odorat (noun, f) - smell
+oeil (noun, m) - eye
+oeuvre (noun) - artwork
+offrir (verb) - to offer
+oh (adverb) - Oh
+oiseau (noun, m) - bird
+olivier (noun, m) - olive
+ombrage (noun, m) - shady
+ombre (noun) - shadow
+oncle (noun, m) - uncle
+onde (noun, f) - wave
+ondulation (noun, f) - ripple
+onduler (verb) - undulate
+opaque (adjective) - opaque
+opinion (noun, f) - opinion
+opposer (adjective) - oppose
+optique (adjective) - optical
+opérer (verb) - operate
+orage (noun, m) - thunderstorm
+orbite (noun, f) - orbit
+ordinaire (adjective) - ordinary
+ordre (noun, m) - order
+oreille (noun, f) - ear
+organe (noun, m) - organ
+organique (adjective) - organic
+oriental (adjective) - Oriental
+orifice (noun, m) - orifice
+original (adjective) - original
+origine (verb) - origin
+orner (verb) - adorn
+os (noun, m) - bone
+osciller (verb) - oscillate
+ose (verb) - dare
+oser (verb) - to dare
+ossement (noun, m) - bones
+ossuaire (noun, m) - ossuary
+oublier (verb) - forget
+ouest (noun, m) - west
+oui (adverb) - Yes
+ouragan (noun, m) - hurricane
+outil (noun, m) - tool
+ouverture (noun, f) - opening
+ouvrage (noun, m) - work
+ouvrir (verb) - open
+--- P ---
+pacifique (adjective) - peaceful
+page (noun, f) - page
+paisible (adjective) - peaceful
+palais (noun, m) - palace
+palmier (noun, m) - palm
+palpitant (adjective) - thrilling
+palpiter (verb) - throb
+paléontologie (noun, f) - paleontology
+panache (noun, m) - plume
+pantalon (noun, m) - pants
+papier (noun, m) - paper
+paquet (noun, m) - pack
+parallèle (noun) - parallel
+paraître (verb) - appear
+parchemin (noun, m) - parchment
+parcourir (verb) - browse
+pareil (noun, m) - The same
+parer (verb) - to prepare
+parfait (adjective) - Perfect
+parfaitement (adverb) - perfectly
+parfum (noun, m) - scent
+parler (verb) - talk
+paroi (noun, m) - wall
+parole (noun, f) - word
+part (noun) - part
+partager (verb) - share
+parti (noun, m) - party
+particularité (noun, f) - peculiarity
+particulier (adjective) - particular
+particulièrement (adverb) - particularly
+partie (noun, f) - part
+partir (verb) - leave
+partout (adverb) - everywhere
+party (noun, f) - party
+parvenir (verb) - achieve
+passage (noun, m) - passage
+passant (noun, m) - passing
+passer (verb) - pass
+passionner (adjective) - passionate
+passé (noun, m) - pass
+patience (noun, f) - patience
+patte (noun, f) - paw
+paupière (noun, f) - eyelid
+pauvre (noun, f) - poor
+pavé (noun, m) - paving stones
+payer (verb) - pay
+pays (noun, m) - country
+paysage (noun, m) - landscape
+paysan (noun, m) - peasant
+paître (verb) - graze
+peau (noun, f) - skin
+peindre (verb) - to paint
+peine (noun, f) - penalty
+pencher (verb) - lean
+pensai (adjective) - I thought
+pense (noun, f) - think
+penser (verb) - think
+pensée (noun, f) - thought
+pente (noun, f) - slope
+percer (verb) - pierce
+percevoir (verb) - perceive
+perdre (adjective) - lose
+permettre (verb) - allow
+perpendiculaire (adjective) - perpendicular
+personnage (noun, m) - character
+personne (noun, f) - person
+personnel (adjective) - staff
+perte (noun, f) - loss
+pesanteur (noun, f) - gravity
+peser (adjective) - weigh
+petit (adjective) - little
+peur (noun, f) - fear
+pharmacie (noun, f) - pharmacy
+philosophie (noun, f) - philosophy
+phrase (noun, f) - sentence
+physionomie (noun, f) - physiognomy
+physique (noun, f) - physical
+phénomène (noun, m) - phenomenon
+pic (noun, m) - peak
+pied (noun, m) - foot
+pierre (noun, f) - rock 
+pierreux (adjective) - stony
+pile (noun, f) - stack
+pin (noun, m) - pine
+pioche (noun, f) - pickaxe
+pitié (noun, f) - pity
+pièce (noun, f) - piece
+place (noun, f) - place
+placer (verb) - place
+plafond (noun, m) - ceiling
+plage (noun, f) - beach
+plaie (noun, f) - wound
+plaindre (verb) - complain
+plaine (noun, f) - plain
+plaire (verb) - to please
+plaisir (noun, m) - pleasure
+plan (noun, m) - plan
+planche (noun, f) - plank
+plante (noun, f) - plant
+planter (verb) - plant
+planète (noun, f) - planet
+planétaire (adjective) - planetary
+plaque (noun, f) - plate
+plat (noun, m) - flat
+plate (noun, f) - plate
+platine (noun, m) - platinum
+plein (adjective) - full
+plesiosauru (noun, f) - plesiosauru
+pli (noun, m) - fold
+plier (verb) - bend
+pliocène (adjective) - pliocene
+plomb (noun, m) - lead
+plonger (verb) - dive
+pluie (noun, f) - rain
+plume (noun, f) - feather
+plupart (noun, f) - most
+poche (noun, f) - poached
+poids (noun, m) - weight
+poignard (noun, m) - dagger
+poigner (verb) - grip
+poil (adjective) - hair 
+poindre (verb) - dawn
+poing (noun, m) - fist
+point (noun, m) - point
+pointe (noun, f) - point
+poisson (noun, m) - fish
+poitrine (noun, f) - chest
+polaire (adjective) - polar
+polyglotte (noun, m) - polyglot
+pommette (noun, f) - cheekbone
+ponce (adjective) - ponce
+pondre (verb) - lay
+pont (noun, m) - bridge
+population (noun, f) - population
+poreux (adjective) - porous
+porphyre (noun, f) - porphyry
+port (noun, m) - port
+portative (noun, f) - portable
+porte (noun, f) - door
+porter (verb) - to carry
+portier (noun, m) - porter
+portion (noun, f) - portion
+portrait (noun, m) - portrait
+portée (noun, f) - scope
+pose (noun, f) - laid
+poser (verb) - to set down
+position (noun, f) - position
+possesseur (noun, m) - possessor
+posséder (verb) - possess
+poste (noun, m) - job
+pouce (noun, f) - thumb
+poudre (noun, f) - powder
+poumon (noun, m) - lung
+pourtant (adverb) - Yet
+pourvoir (verb) - power
+pousser (verb) - push
+poussière (noun, f) - dust
+poussée (noun, f) - thrust
+poutre (noun, f) - beam
+pouvoir (verb) - power
+pratiquer (verb) - practice
+premier (adjective) - first
+prendre (verb) - take
+presbytère (noun, m) - presbytery
+presqu (adjective) - almost
+presque (adverb) - almost
+pressentiment (noun, m) - presentiment
+presser (verb) - squeeze
+pression (noun, f) - pressure
+preuve (noun, f) - evidence
+primitif (adjective) - primitive
+primordial (adjective) - primary
+prince (noun, f) - prince
+principal (adjective) - main
+prise (noun, f) - socket
+prisme (noun, m) - prism
+prison (noun, f) - prison
+priver (adjective) - deprive
+prix (noun, m) - price
+prière (noun, f) - prayer
+probable (adjective) - likely
+problème (noun, m) - issue
+prochain (adjective) - next
+procurer (verb) - procure
+prodigieusement (adverb) - prodigiously
+prodigieux (adjective) - prodigious
+produire (verb) - produce
+produit (noun, m) - product
+professer (verb) - profess
+professeur (noun, m) - teacher
+profession (noun, f) - occupation
+profil (noun, m) - profile
+profiler (verb) - profile
+profiter (verb) - enjoy
+profond (adjective) - deep
+profondeur (noun, f) - depth
+profondément (adverb) - deeply
+prognathisme (noun, m) - prognathism
+progrès (noun, m) - progress
+proie (noun, f) - prey
+projection (noun, f) - projection
+projet (noun, m) - project
+projeter (verb) - project
+prolonger (verb) - extend
+promenade (noun, f) - ride
+promener (verb) - to take a walk
+promontoire (noun, m) - promontory
+promptement (adverb) - promptly
+prononcer (verb) - pronounce
+propice (adjective) - favorable
+proportion (noun, f) - proportion
+proportionnel (adjective) - proportional
+propos (noun, m) - proposals
+proposer (verb) - to propose
+proposition (noun, f) - proposal
+propre (adjective) - own
+proprement (adverb) - properly
+propriétaire (noun) - owner
+propriété (noun, f) - property
+proue (noun, f) - bow
+prouver (verb) - prove
+provenir (verb) - to come from
+providence (noun, f) - providence
+providentiel (adjective) - providential
+provision (noun, f) - provision
+provoquer (verb) - to provoke
+prudemment (adverb) - cautiously
+prudence (noun, f) - caution
+prudent (adjective) - careful
+précaution (noun, f) - precaution
+précieusement (adverb) - preciously
+précieux (adjective) - precious
+précipice (noun, f) - precipice
+précipitation (noun, f) - precipitation
+précipiter (verb) - precipitate
+précis (adjective) - accurate
+précisément (adverb) - precisely
+précédent (noun, m) - previous
+précéder (verb) - precede
+préoccupation (noun, f) - concern
+préoccuper (verb) - worry
+préparatif (noun, m) - preparation
+préparer (verb) - prepare
+présence (noun, f) - presence
+présente (verb) - present
+présenter (verb) - to present
+présider (verb) - preside
+prétendre (verb) - pretend
+prétention (noun, f) - pretense
+prévoir (verb) - to expect
+prêt (adjective) - ready
+public (noun, m) - audience
+publier (verb) - publish
+puiser (verb) - draw
+puisqu (pronoun) - since
+puissance (noun, f) - power
+puissant (adjective) - powerful
+puits (noun, m) - well
+pupille (noun, f) - pupil
+pur (adjective) - pure
+purement (adverb) - purely
+pus (adverb) - pus
+pâle (adjective) - pale
+pâte (noun, f) - dough
+pâturage (noun, m) - pasture
+pénible (adjective) - hard
+pénétrer (verb) - enter
+péril (noun) - peril
+périlleux (adjective) - perilous
+période (noun, f) - period
+périr (verb) - perish
+pêche (noun, f) - fishing
+pêcheur (noun, m) - fisherman
+pôle (noun, m) - pole
+--- Q ---
+qu (adjective) - that
+quadrupède (noun, m) - quadruped
+quai (noun, m) - dock
+qualité (noun, f) - quality
+quantité (noun, f) - quantity
+quart (noun, m) - quarter
+quartier (noun, m) - neighborhood
+quartz (noun, m) - quartz
+quaternaire (adjective) - quaternary
+quatorzième (adjective) - fourteenth
+quatrefage (noun, m) - fourfage
+que (pronoun) - that
+quelquefois (adverb) - sometimes
+question (noun, f) - question
+queue (noun, f) - tail
+quitter (verb) - to leave
+quotidien (adjective) - daily
+--- R ---
+rabattre (verb) - fold down
+race (noun, f) - breed
+racine (noun, f) - root
+raconter (verb) - tell
+radeau (noun, m) - raft
+radieu (noun, m) - radiant
+rafraîchir (adjective) - refresh
+raide (adjective) - steep
+railway (noun, m) - railway
+raison (noun, f) - reason
+raisonnable (adjective) - reasonable
+raisonnement (noun, m) - reasoning
+ramasser (verb) - pick up
+rame (noun, f) - oar
+ramener (verb) - to bring back
+rampe (noun, f) - ramp
+ramper (verb) - crawl
+rang (noun, m) - rank
+ranger (verb) - ranger
+ranima (noun, m) - ranima
+ranimer (verb) - revive
+rapide (adjective) - fast
+rapidement (adverb) - quickly
+rapidité (noun, f) - speed
+rappeler (verb) - remind
+rapport (noun, m) - report
+rapporter (verb) - report
+rapprocher (verb) - bring closer
+rare (adjective) - rare
+raser (verb) - shave
+rassurant (adjective) - reassuring
+rassurer (verb) - to reassure
+rationner (verb) - ration
+rattacher (verb) - attach
+rayon (noun, m) - radius
+rebondir (verb) - bounce
+rebrousser (verb) - turn back
+recevoir (verb) - receive
+recherche (noun, f) - research
+recommandation (noun, f) - recommendation
+recommander (verb) - recommend
+recommencer (verb) - start over
+reconnaissable (adjective) - recognizable
+reconnaissance (noun, f) - acknowledgement
+reconnaître (verb) - recognize
+reconstruire (verb) - rebuild
+recouvrir (verb) - cover
+recteur (noun, m) - rector
+recueillir (verb) - collect
+reculer (verb) - to move back
+redescendre (verb) - go back down
+redevenir (verb) - become
+redoubler (verb) - repeat
+redoutable (adjective) - formidable
+redouter (verb) - to fear
+redresser (verb) - to sort out
+refaire (verb) - redo
+refermer (verb) - close
+reflet (noun, m) - reflection
+reflux (noun, m) - reflux
+refroidir (verb) - cool
+refroidissement (noun, m) - cooling
+refus (noun, m) - refusal
+refuser (verb) - refuse
+regagner (verb) - regain
+regard (noun, m) - glance
+regardai (noun, m) - look
+regarder (verb) - look
+regret (noun, m) - regret
+regretter (verb) - regret
+rein (noun, m) - kidney
+rejaillir (verb) - spring back
+rejeter (verb) - dismiss
+rejoindre (verb) - join
+relais (noun, m) - relay
+relatif (adjective) - relative
+relever (verb) - to point out
+relier (verb) - relate
+reliure (noun, f) - binding
+remarquable (adjective) - outstanding
+remarque (noun, f) - REMARK
+remarquer (verb) - to remark
+remercier (verb) - thank
+remettre (verb) - to put back
+remonter (verb) - go back up
+remous (noun, m) - eddy
+remplacer (verb) - replace
+remplir (verb) - fill
+remue (verb) - stirred
+remuer (verb) - stir
+remède (noun, m) - remedy
+renaître (verb) - reborn
+rencontre (noun, f) - encounter
+rencontrer (verb) - meet
+rendre (verb) - give back
+renfermer (verb) - contain
+renommée (noun, f) - renowned
+renoncer (verb) - give up
+renouveler (verb) - renew
+rentrer (verb) - to return
+renversement (noun, m) - reversal
+renverser (verb) - to spill
+reparaître (verb) - reappear
+repas (noun, m) - meal
+repos (noun, m) - rest
+reposer (verb) - to rest
+repousser (verb) - repel
+reprendre (verb) - to resume
+reprise (noun, f) - resume
+reprocher (verb) - to reproach
+reproduire (verb) - reproduce
+représenter (verb) - represent
+reptile (noun, m) - reptile
+respecter (verb) - respect
+respiration (noun, f) - breathing
+respirer (verb) - breathe
+ressembler (verb) - look like
+ressentir (verb) - to feel
+resserrer (adjective) - tighten
+ressource (noun, f) - resource
+reste (noun, m) - stay
+rester (verb) - stay
+retard (noun, m) - delay
+retenir (verb) - retain
+retentir (verb) - resound
+retentissant (adjective) - resounding
+retirer (verb) - withdraw
+retomber (verb) - fall back
+retourner (verb) - return
+retraite (noun, f) - retirement
+retrouver (verb) - find
+revenir (verb) - to come back
+revoir (verb) - goodbye
+revêtement (noun, m) - coating
+revêtir (adverb) - to wear
+riche (adjective) - rich
+richesse (noun, f) - wealth
+rideau (noun, m) - curtain
+ridicule (adjective) - ridiculous
+rien (pronoun) - Nothing
+rigueur (noun, f) - rigor
+riposter (verb) - retaliate
+rire (verb) - laugh
+risque (verb) - risk
+risquer (verb) - risk
+rivage (noun, m) - shore
+rive (noun, f) - shore
+rivière (noun, f) - river
+rixdale (noun, f) - rixdale
+roc (noun, f) - rock
+roche (noun, f) - rock
+rocher (noun, m) - rock
+roi (noun, m) - king
+roide (adjective) - stiff
+rompre (verb) - break
+rond (adjective) - round
+ronger (verb) - gnaw
+rotule (noun, f) - kneecap
+rouge (adjective) - red
+rougir (verb) - blush
+roulement (noun, m) - bearing
+rouler (verb) - to roll
+route (noun, f) - road
+rouvrir (verb) - reopen
+ruban (noun, m) - ribbon
+rude (adjective) - harsh
+rue (noun, f) - Street
+rugissement (noun, m) - roar
+ruisseau (noun, m) - stream
+runique (adjective) - runic
+règne (noun, m) - reign
+réaliser (verb) - realize
+réalité (noun, f) - reality
+récent (adjective) - recent
+récit (noun, m) - narrative
+réclamer (verb) - claim
+réduction (noun, f) - reduction
+réduire (verb) - reduce
+réel (adjective) - real
+réellement (adverb) - really
+réflexion (noun, f) - reflection
+réfléchir (verb) - to reflect on
+réfractaire (adjective) - refractory
+région (noun, f) - region
+régler (verb) - settle
+régner (verb) - reign
+régularité (noun, f) - regularity
+régulier (adjective) - regular
+régulièrement (adverb) - regularly
+répandre (verb) - spread
+réparer (verb) - fix
+réplique (noun, f) - replica
+répliquer (verb) - replicate
+répondit (noun, f) - replied
+répondre (verb) - answer
+réponse (noun, f) - answer
+répéter (verb) - repeat
+réseau (noun, m) - network
+réserve (noun, f) - reserve
+réserver (verb) - to book
+réservoir (noun, m) - reservoir
+résidu (noun, m) - residue
+résignation (noun, f) - resignation
+résigner (verb) - resign
+résine (noun, f) - resin
+résister (verb) - resist
+résoudre (verb) - solve
+résultat (noun, m) - result
+résulter (verb) - result
+résumer (verb) - to summarize
+réunir (verb) - gather
+réussir (verb) - succeed
+réveil (noun, m) - awakening
+réveiller (verb) - wake
+réverbération (noun, f) - reverberation
+rêve (noun, m) - dream
+rêver (verb) - dream
+rôle (noun, m) - role
+--- S ---
+sable (noun, m) - sand
+sac (noun, m) - bag
+sacrer (adjective) - consecrate
+saellvertu (verb) - saellvertu
+saillie (noun, f) - protrusion
+saint (noun, m) - saint
+saisir (verb) - to input
+saler (verb) - salt
+saline (adjective) - saline
+salle (noun, f) - room
+saluer (verb) - greet
+salut (verb) - Hi
+salutaire (adjective) - salutary
+samedi (noun, m) - SATURDAY
+sang (noun, m) - blood
+sanglant (adjective) - bloody
+santé (noun, f) - health
+sapin (noun, m) - fir tree
+satisfaction (noun, f) - satisfaction
+satisfaisant (adjective) - satisfying
+saurien (noun, m) - saurian
+saute (verb) - jump
+sauter (verb) - jump
+sauvage (noun, m) - savage
+sauver (verb) - save
+savant (adjective) - learned
+savoir (verb) - know
+scandinave (adverb) - Scandinavian
+schiste (noun, m) - shale
+science (noun, f) - science
+scientifique (adjective) - scientist
+scintillation (noun, f) - scintillation
+scorie (noun, f) - slag
+scène (noun, f) - scene
+sec (adjective) - dry
+second (adjective) - second
+secondaire (adjective) - secondary
+seconde (noun, f) - second
+secouer (verb) - shake
+secours (noun, m) - rescue
+secousse (noun, f) - shake
+secret (noun, m) - secret
+section (noun, f) - section
+sein (noun, m) - breast
+seizième (adjective) - sixteenth
+semaine (noun, f) - week
+semblable (adjective) - similar
+sembler (verb) - seem
+semer (verb) - sowing
+semi (adverb) - semi
+sens (noun, m) - sense
+sensation (noun, f) - sensation
+sensible (adjective) - sensitive
+sensiblement (adverb) - roughly
+sentier (noun, m) - path
+sentiment (adjective) - feeling
+sentir (verb) - feel
+septembre (noun, m) - september
+septentrional (adjective) - northern
+serpent (noun, m) - snake
+serpentin (noun, m) - serpentine
+serre (noun, f) - tight
+serrer (verb) - to squeeze
+servante (noun, f) - servant
+service (noun, m) - service
+servir (verb) - serve
+serviteur (noun, m) - servant
+sifflement (adverb) - whistling
+sigillaire (noun) - seal
+signal (noun, m) - signal
+signaler (verb) - report
+signature (noun, f) - signature
+signe (noun, m) - sign
+signifier (verb) - mean
+silence (noun, m) - silence
+silencieux (adjective) - silent
+silex (noun, m) - flint
+siliceux (adjective) - siliceous
+silurienne (verb) - Silurian
+simple (adjective) - simple
+simplement (adverb) - simply
+singe (noun, m) - monkey
+singulier (adjective) - singular
+singulièrement (adverb) - singularly
+sinistre (adjective) - sinister
+sinueu (noun, m) - winding
+sinuosité (noun, f) - sinuosity
+situation (noun, f) - situation
+situer (verb) - locate
+siècle (noun, m) - century
+sneffel (noun, m) - sneffel
+snorre (noun, f) - snoring
+société (noun, f) - Company
+soif (noun, f) - thirsty
+soigneusement (adverb) - thoroughly
+soin (noun, m) - care
+soir (noun, m) - evening
+sol (noun, m) - ground
+solaire (adjective) - solar
+soleil (noun, m) - sun
+solide (adjective) - solid
+solidement (adverb) - solidly
+solitaire (adjective) - lonely
+solitude (noun, f) - solitude
+solution (noun, f) - solution
+sombre (adjective) - dark
+sommaire (adjective) - summary
+somme (noun) - sum
+sommeil (noun, m) - sleep
+sommet (noun, m) - summit
+sonde (noun, f) - probe
+sonder (verb) - probe
+songer (verb) - think
+sonner (verb) - ring
+sonore (adjective) - sound
+sort (noun, m) - spell
+sorte (noun, f) - sort
+sortir (verb) - to go out
+soucier (verb) - worry
+soudain (verb) - suddenly
+souffle (noun, m) - breath
+souffler (verb) - blow
+souffrance (noun, f) - suffering
+souffrir (verb) - suffer
+soulever (verb) - raise
+soulèvement (noun, m) - uprising
+soumettre (verb) - submit
+soupe (noun, f) - soup
+souper (noun, m) - supper
+soupir (noun, m) - sigh
+soupçonner (verb) - suspect
+source (noun, f) - source
+sourcil (noun, m) - eyebrow
+sourd (adjective) - deaf
+sourire (verb) - smile
+soutenir (verb) - sustain
+souterrain (adjective) - underground
+souterraine (noun, f) - underground
+souvenir (noun, m) - memory
+spectacle (noun, m) - show
+sphéroïde (noun, m) - spheroid
+spiral (adjective) - spiral
+splendide (adjective) - splendid
+spécial (adjective) - special
+spécimen (noun, m) - specimen
+squelette (noun, m) - skeleton
+steamer (noun, m) - steamer
+strer (verb) - strer
+stromboli (noun, m) - stromboli
+structure (noun, f) - structure
+stupéfaction (noun, f) - stupefaction
+stupéfaire (verb) - astonish
+stupéfait (verb) - astonished
+style (noun, m) - style
+subir (verb) - undergo
+subitement (adverb) - suddenly
+sublime (verb) - sublime
+sublunaire (adjective) - sublunary
+substruction (noun, f) - substructure
+subterrestr (adjective) - subterrestrial
+successif (adjective) - successive
+succession (noun, f) - succession
+successivement (adverb) - successively
+succès (noun, m) - success
+succéder (verb) - succeed
+sud (adjective) - south
+suffire (verb) - suffice
+suffisamment (adverb) - enough
+suffoquer (verb) - suffocate
+suite (noun, f) - following
+suivre (verb) - follow
+sujet (noun, m) - subject
+superbe (adjective) - stunning
+superposer (adjective) - layer
+supporter (verb) - support
+supposer (verb) - assume
+supposition (noun, f) - assumption
+supérieur (adjective) - superior
+surchauffer (adjective) - overheat
+surexcitation (noun, f) - overexcitement
+surface (noun, f) - surface
+surhumain (adjective) - superhuman
+surnaturel (adjective) - supernatural
+surprenant (adjective) - surprising
+surprendre (verb) - surprise
+surprise (noun, f) - surprise
+surtarbrandur (noun, m) - surtarbrandur
+suspendre (verb) - suspend
+symptôme (noun, m) - symptom
+système (noun, m) - system
+séance (noun, f) - session
+sédimentaire (adjective) - sedimentary
+séparer (verb) - separate
+série (noun, f) - series
+sérieusement (adverb) - seriously
+sérieux (adjective) - serious
+sévère (adjective) - severe
+sûr (adjective) - on
+--- T ---
+tabac (noun, m) - tobacco
+table (noun, f) - table
+taille (noun, f) - size 
+tailler (verb) - prune
+taillis (noun, m) - coppice
+taire (verb) - silence
+tandis (adverb) - while
+tapir (verb) - tapir
+tapis (noun, m) - carpet
+tard (adverb) - late
+tarder (verb) - delay
+teinte (noun, f) - shade
+temps (noun, m) - time
+tempérament (noun, m) - temperament
+température (noun, f) - temperature
+tempête (noun, f) - storm
+tendance (noun, f) - tendency
+tendre (verb) - tender
+tenir (verb) - hold
+tension (noun, f) - tension
+tenter (verb) - to attempt
+terme (noun, m) - term
+terminer (verb) - to end
+terrain (noun, m) - ground
+terre (noun, f) - earth
+terrestre (adjective) - land
+terreur (noun, f) - terror
+terrible (adjective) - terrible
+tertiaire (adjective) - tertiary
+texture (noun, f) - texture
+thermomètre (noun, m) - thermometer
+théorie (noun, f) - theory
+théâtre (noun, m) - theater
+tiers (noun, m) - third party
+tin (pronoun) - tin
+tire (verb) - shoot
+tirer (verb) - to pull
+titre (noun, m) - title
+toile (noun, f) - cloth
+toise (noun, f) - height
+toit (noun, m) - roof
+tombe (verb) - fall
+tombeau (noun, m) - tomb
+tomber (verb) - to fall
+tonnerre (pronoun) - thunder
+torche (noun, f) - torch
+tord (noun, m) - twisted
+tordre (verb) - twist
+torrent (noun, m) - torrent
+tortue (noun, f) - tortoise
+torture (noun, f) - torture
+toucher (verb) - to touch
+touffe (noun, f) - tuft
+touffu (adjective) - bushy
+tour (noun, m) - round
+tourbe (noun, f) - peat
+tourbillon (noun, m) - whirlpool
+touriste (noun) - tourist
+tourment (noun, m) - torment
+tournant (adjective) - turning
+tourner (verb) - turn
+tournoyer (verb) - twirl
+tournure (noun, f) - turn
+toutefois (adverb) - however
+tracasser (verb) - bother
+trace (noun, f) - trace
+tracer (verb) - trace
+trachytique (adjective) - trachytic
+traduction (noun, f) - translation
+traduire (verb) - translate
+trahir (verb) - betray
+train (noun, m) - train
+traité (noun, m) - treaty
+tranquille (adjective) - calm
+tranquillement (adverb) - calmly
+transformation (noun, f) - transformation
+transformer (verb) - transform
+transition (noun, f) - transition
+transport (noun, m) - transportation
+transporter (verb) - carry
+trapp (noun, m) - trap
+travail (noun, m) - work
+travailler (verb) - to work
+traver (adjective) - travers
+travers (noun, m) - through
+traverser (verb) - to cross
+traversée (noun, f) - crossing
+traîne (verb) - train
+traîner (verb) - hang out
+tremblement (noun, m) - trembling
+trembler (verb) - tremble
+trentaine (noun, f) - thirty-something
+tressaillir (verb) - shudder
+trilobite (noun, f) - trilobite
+triomphant (noun, m) - triumphant
+triste (adjective) - sad
+trombe (noun, f) - waterspout
+tromblon (noun, m) - blunderbuss
+trompe (verb) - deceit
+tromper (verb) - deceive
+tronc (noun, m) - trunk
+tronçon (noun, m) - section
+trop (adverb) - too much
+trou (noun, m) - hole
+trouble (adjective) - disorder
+troubler (verb) - disturbing
+trouer (adverb) - hole
+troupe (noun, f) - troupe
+troupeau (noun, m) - herd
+trouver (verb) - find
+trésor (noun, m) - treasure
+tube (noun, m) - tube
+tuer (verb) - kill
+tuf (noun, m) - tuff
+tunnel (noun, m) - tunnel
+tuteur (noun, m) - tutor
+type (noun, m) - kind
+tâter (verb) - feel
+ténèbre (noun, f) - darkness
+tête (verb) - head
+tôt (adverb) - early
+--- U ---
+uni (adjective) - united
+uniforme (adjective) - uniform
+uniformité (noun, m) - uniformity
+uniformément (adverb) - uniformly
+unique (adjective) - unique
+uniquement (adverb) - uniquely
+usage (noun, m) - use
+ustensile (noun, m) - utensil
+utile (adjective) - useful
+--- V ---
+vache (noun, f) - cow
+vadmel (noun, f) - vadmel
+vague (noun, f) - wave
+vain (adjective) - vain
+vaincre (verb) - defeat
+vainement (adverb) - in vain
+vaisseau (noun, m) - vessel
+valeur (noun, f) - value
+valise (noun, f) - suitcase
+valoir (verb) - to be worth
+vapeur (noun, m) - steam
+varier (adjective) - vary
+vaste (adjective) - vast
+veau (noun, m) - calf
+veille (noun, f) - day before
+veiller (verb) - watch
+veine (noun, f) - vein
+vendredi (noun, m) - Friday
+venir (verb) - come
+vent (noun, m) - wind
+ventilateur (noun, m) - fan
+ventre (noun, m) - belly
+verdoyant (adjective) - green
+verdure (noun, f) - greenery
+verre (noun, m) - glass
+versant (noun, m) - slope
+verser (verb) - pour
+verso (noun, m) - back
+vert (adjective) - Green
+vertical (adjective) - vertical
+verticale (noun, f) - vertical
+verticalement (adverb) - vertically
+vertige (noun, m) - vertigo
+vertigineux (adjective) - dizzy
+vertu (noun, f) - virtue
+viande (noun, f) - meat
+vide (noun, m) - empty
+vie (noun, f) - life
+vien (adjective) - come
+vieux (adjective) - old
+vif (noun, m) - lively
+vigne (noun, f) - vine
+vigoureusement (adverb) - vigorously
+vigoureux (adjective) - vigorous
+vigueur (noun, f) - vigor
+villa (noun, f) - villa
+ville (noun, f) - city
+violemment (adverb) - violently
+violence (noun, f) - violence
+violent (adjective) - violent
+virlandaise (noun, f) - virlandaise
+vis (noun, m) - screw
+visage (noun, m) - face
+visite (noun, f) - visit
+visiter (verb) - to visit
+vite (adverb) - quickly
+vitesse (noun, f) - speed
+vivacité (noun, f) - liveliness
+vivant (noun, m) - alive
+vivement (adverb) - quickly
+vivre (verb) - live
+voie (noun, f) - way
+voil (adjective) - there you go
+voile (noun, f) - veil
+voir (verb) - see
+voisin (adjective) - neighbor
+voisinage (noun, m) - neighborhood
+voiture (noun, f) - car
+voix (noun, f) - voice
+volcan (noun) - volcano
+volcanique (adjective) - volcanic
+voler (verb) - fly
+volontier (noun, m) - gladly
+volontiers (adverb) - gladly
+volonté (noun, f) - will
+volume (noun, m) - volume
+volupté (noun, m) - pleasure
+volute (noun, f) - volute
+vomie (noun, f) - vomit
+vomir (verb) - to vomit
+vorace (adjective) - voracious
+vouloir (verb) - to want
+voyage (noun, m) - journey
+voyager (verb) - to travel
+voyageur (noun, m) - traveler
+voyelle (noun, f) - vowel
+voûte (noun, f) - vaulted
+vrai (adjective) - TRUE
+vraiment (adverb) - Really
+vraisemblablement (adverb) - presumably
+vue (noun, f) - view
+végétal (adjective) - vegetal
+végétation (noun, f) - vegetation
+véritable (adjective) - true
+véritablement (adverb) - truly
+vérité (noun, f) - truth
+vêtement (noun, m) - garment
+vêtir (verb) - clothing
+--- W ---
+wagon (noun, m) - car
+--- X ---
+xiv (adjective) - XIV
+xvi (adjective) - 16th
+--- Z ---
+zéro (noun, m) - zero
+--- Â ---
+âge (noun, m) - age
+--- É ---
+ébaucher (verb) - draft
+éblouir (verb) - dazzle
+éblouissant (adjective) - dazzling
+éboulement (noun, m) - landslide
+ébranler (verb) - shake
+ébrécher (verb) - chip
+écarter (verb) - rule out
+échanger (verb) - to exchange
+échantillon (noun, m) - sample
+échapper (verb) - escape
+échauffer (verb) - warm up
+échelle (noun, m) - ladder
+écho (noun, m) - echo
+éclair (noun, m) - flash
+éclairer (verb) - illuminate
+éclat (noun, m) - glow
+éclater (verb) - burst
+éclore (verb) - hatch
+écorce (noun, f) - bark
+écouler (verb) - sell
+écoutai (noun, m) - listened
+écoute (verb) - listen
+écouter (verb) - listen
+écraser (verb) - crush
+écria (noun, m) - cried
+écriai (noun, f) - I cried
+écrier (verb) - exclaim
+écrir (adjective) - write
+écrire (verb) - to write
+écriture (noun, f) - writing
+écueil (noun, m) - pitfall
+écumer (verb) - skimming
+écumeux (adjective) - frothy
+édredon (noun, m) - quilt
+égal (adjective) - equal
+égaler (verb) - equal
+égard (noun, m) - regard
+égarer (verb) - mislead
+église (noun, f) - church
+élancer (verb) - launch
+élargir (verb) - expand
+élasticité (noun, f) - elasticity
+élastique (adjective) - elastic
+électricité (noun, f) - electricity
+électrique (adjective) - electric
+élever (verb) - raise
+élevé (adjective) - pupil
+éloigner (verb) - move away
+éloigné (adjective) - distant
+élève (noun) - pupil
+élément (noun, m) - element
+éléphant (noun, m) - elephant
+élévation (noun, f) - elevation
+émerveillement (noun, m) - wonder
+émotion (noun, f) - emotion
+émouvoir (verb) - to move
+énergie (noun, f) - energy
+énorme (adjective) - huge
+épais (adjective) - thick
+épaisseur (noun, f) - thickness
+épanchement (noun, m) - effusion
+épancher (adverb) - pour
+épar (noun, m) - scattered
+éparpiller (adjective) - scatter
+épaule (noun, f) - shoulder
+épave (noun, f) - wreck
+époqu (adjective) - era
+époque (noun, f) - era
+épouvantable (adjective) - appalling
+épouvante (noun, f) - horror
+épouvanter (verb) - terrify
+épreuve (noun, f) - test
+éprouver (verb) - experience
+épuiser (verb) - exhaust
+équilibre (noun, m) - balance
+équipage (noun, m) - crew
+éruptif (noun, f) - eruptive
+éruption (noun, f) - eruption
+éruptive (noun, f) - eruptive
+éruptiver (verb) - eruptive
+établir (verb) - establish
+établissement (noun, m) - establishment
+étage (noun, m) - floor
+étager (verb) - shelf
+étale (adjective) - spread
+étaler (verb) - spread
+étang (adverb) - pond
+étape (noun, f) - stage
+état (noun, m) - state
+éteindre (verb) - turn off
+éteint (noun, f) - extinct
+étendre (verb) - extend
+étendu (adjective) - extended
+étendue (noun, f) - extent
+éternel (adjective) - eternal
+étinceler (verb) - sparkle
+étincelle (noun, f) - spark
+étiqueté (noun, f) - labeled
+étoile (noun, f) - star
+étonnant (adjective) - amazing
+étonnement (noun, m) - astonishment
+étonner (verb) - astonish
+étouffer (verb) - stifle
+étrange (noun, f) - odd
+étranger (adjective) - stranger
+étreinte (noun, f) - embrace
+étroit (adjective) - narrow
+étroite (verb) - narrow
+étude (noun, f) - study
+étudier (verb) - to study
+évanouissement (adverb) - fainting
+évaporation (noun, f) - evaporation
+évaser (verb) - flare
+éveiller (verb) - awaken
+évent (noun, m) - event
+évidemment (adverb) - obviously
+évidence (noun, f) - evidence
+évident (adjective) - obvious
+éviter (verb) - avoid
+évocation (noun, f) - evocation
+événement (noun, m) - event
+évêque (noun, m) - bishop
+--- Ê ---
+être (verb) - be
+--- Î ---
+île (noun, f) - island
+îlot (noun, m) - islet
+--- Ô ---
+ôter (verb) - remove
