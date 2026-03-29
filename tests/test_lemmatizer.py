@@ -10,19 +10,20 @@ from lexikon.lemmatizer import (
 )
 
 
-def _make_token(lemma: str, pos: str, *, is_alpha: bool = True, is_stop: bool = False):
+def _make_token(lemma: str, pos: str, *, is_alpha: bool = True, is_stop: bool = False, gender: str | None = None):
     token = MagicMock()
     token.lemma_ = lemma
     token.pos_ = pos
     token.is_alpha = is_alpha
     token.is_stop = is_stop
+    token.morph.get.return_value = [gender] if gender else []
     return token
 
 
 class TestConstants:
     def test_french_model_mapped(self):
         assert "fr" in LANGUAGE_MODEL_MAP
-        assert LANGUAGE_MODEL_MAP["fr"] == "fr_core_news_sm"
+        assert LANGUAGE_MODEL_MAP["fr"] == "fr_core_news_md"
 
     def test_excluded_pos_contains_noise_tags(self):
         for tag in ("PUNCT", "SPACE", "NUM", "DET", "ADP"):
@@ -95,6 +96,24 @@ class TestExtractLemmaEntries:
         with pytest.raises(ValueError, match="Unsupported language"):
             extract_lemma_entries("text", lang="zz")
 
+    def test_filters_proper_nouns(self):
+        nlp = self._nlp([_make_token("Jules", "PROPN")])
+        with patch("lexikon.lemmatizer.spacy.load", return_value=nlp):
+            result = extract_lemma_entries("Jules")
+        assert result == []
+
+    def test_captures_gender_from_morph(self):
+        nlp = self._nlp([_make_token("professeur", "NOUN", gender="Masc")])
+        with patch("lexikon.lemmatizer.spacy.load", return_value=nlp):
+            result = extract_lemma_entries("professeur")
+        assert result[0].gender == "Masc"
+
+    def test_gender_none_when_absent(self):
+        nlp = self._nlp([_make_token("manger", "VERB")])
+        with patch("lexikon.lemmatizer.spacy.load", return_value=nlp):
+            result = extract_lemma_entries("manger")
+        assert result[0].gender is None
+
     def test_allows_duplicates(self):
         """extract_lemma_entries does not deduplicate; that is deduplicate_sort's job."""
         nlp = self._nlp(
@@ -134,3 +153,27 @@ class TestDeduplicateSort:
 
     def test_empty_input(self):
         assert deduplicate_sort([]) == []
+
+    def test_min_frequency_drops_rare_lemmas(self):
+        entries = [
+            LemmaEntry(lemma="manger", pos="VERB"),
+            LemmaEntry(lemma="manger", pos="VERB"),
+            LemmaEntry(lemma="rare", pos="NOUN"),
+        ]
+        result = deduplicate_sort(entries, min_frequency=2)
+        lemmas = [e.lemma for e in result]
+        assert "manger" in lemmas
+        assert "rare" not in lemmas
+
+    def test_min_frequency_default_keeps_all(self):
+        entries = [LemmaEntry(lemma="rare", pos="NOUN")]
+        result = deduplicate_sort(entries)
+        assert result[0].lemma == "rare"
+
+    def test_gender_preserved_through_deduplication(self):
+        entries = [
+            LemmaEntry(lemma="professeur", pos="NOUN", gender="Masc"),
+            LemmaEntry(lemma="professeur", pos="NOUN", gender="Masc"),
+        ]
+        result = deduplicate_sort(entries)
+        assert result[0].gender == "Masc"

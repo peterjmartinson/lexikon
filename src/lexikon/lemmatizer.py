@@ -3,14 +3,14 @@ from dataclasses import dataclass
 
 
 LANGUAGE_MODEL_MAP: dict[str, str] = {
-    "fr": "fr_core_news_sm",
+    "fr": "fr_core_news_md",
     "de": "de_core_news_sm",
     "es": "es_core_news_sm",
 }
 
 # POS tags that carry little lexical value and should be excluded.
 EXCLUDED_POS: frozenset[str] = frozenset(
-    {"SPACE", "PUNCT", "SYM", "NUM", "X", "DET", "ADP", "SCONJ", "CCONJ", "AUX"}
+    {"SPACE", "PUNCT", "SYM", "NUM", "X", "DET", "ADP", "SCONJ", "CCONJ", "AUX", "PROPN"}
 )
 
 
@@ -18,6 +18,7 @@ EXCLUDED_POS: frozenset[str] = frozenset(
 class LemmaEntry:
     lemma: str
     pos: str
+    gender: str | None = None
 
 
 def extract_lemma_entries(text: str, lang: str = "fr") -> list[LemmaEntry]:
@@ -49,17 +50,29 @@ def extract_lemma_entries(text: str, lang: str = "fr") -> list[LemmaEntry]:
         ):
             lemma = token.lemma_.lower().strip()
             if len(lemma) > 1:
-                entries.append(LemmaEntry(lemma=lemma, pos=token.pos_))
+                gender_list = token.morph.get("Gender")
+                gender = gender_list[0] if gender_list else None
+                entries.append(LemmaEntry(lemma=lemma, pos=token.pos_, gender=gender))
     return entries
 
 
-def deduplicate_sort(entries: list[LemmaEntry]) -> list[LemmaEntry]:
-    """Deduplicate by lemma (keeping first POS seen) and sort alphabetically."""
-    seen: dict[str, str] = {}
+def deduplicate_sort(entries: list[LemmaEntry], min_frequency: int = 1) -> list[LemmaEntry]:
+    """Deduplicate by lemma (keeping first-seen entry) and sort alphabetically.
+
+    Args:
+        entries: Raw (possibly duplicate) lemma entries from :func:`extract_lemma_entries`.
+        min_frequency: Minimum number of occurrences required for a lemma to be kept.
+    """
+    counts: dict[str, int] = {}
+    for entry in entries:
+        counts[entry.lemma] = counts.get(entry.lemma, 0) + 1
+
+    seen: dict[str, LemmaEntry] = {}
     for entry in entries:
         if entry.lemma not in seen:
-            seen[entry.lemma] = entry.pos
+            seen[entry.lemma] = entry
+
     return sorted(
-        [LemmaEntry(lemma=lemma, pos=pos) for lemma, pos in seen.items()],
+        [e for e in seen.values() if counts[e.lemma] >= min_frequency],
         key=lambda e: e.lemma,
     )

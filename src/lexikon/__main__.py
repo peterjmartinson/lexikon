@@ -52,7 +52,7 @@ def main(argv: list[str] | None = None) -> None:
 
     print("Lemmatizing with spaCy...")
     entries = extract_lemma_entries(" ".join(tokens), lang=args.language)
-    entries = deduplicate_sort(entries)
+    entries = deduplicate_sort(entries, min_frequency=2)
     print(f"  → {len(entries)} unique lemmas found.")
 
     print("Translating (Google Cloud Translation API)...")

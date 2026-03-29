@@ -24,6 +24,7 @@ def _make_token(lemma: str, pos: str, *, is_alpha: bool = True, is_stop: bool = 
     token.pos_ = pos
     token.is_alpha = is_alpha
     token.is_stop = is_stop
+    token.morph.get.return_value = []
     return token
 
 
@@ -83,7 +84,8 @@ class TestPipeline:
         assert "voyager (verb) - to travel" in content
 
         # verify sorted order
-        lines = content.strip().splitlines()
-        assert lines[0].startswith("impatient")
-        assert lines[1].startswith("professeur")
-        assert lines[2].startswith("voyager")
+        all_lines = content.strip().splitlines()
+        entry_lines = [l for l in all_lines if not l.startswith("---")]
+        assert entry_lines[0].startswith("impatient")
+        assert entry_lines[1].startswith("professeur")
+        assert entry_lines[2].startswith("voyager")

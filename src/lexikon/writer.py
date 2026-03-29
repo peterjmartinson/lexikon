@@ -7,9 +7,13 @@ POS_LABELS: dict[str, str] = {
     "VERB": "verb",
     "ADJ": "adjective",
     "ADV": "adverb",
-    "PROPN": "noun",
     "PRON": "pronoun",
     "INTJ": "interjection",
+}
+
+_GENDER_LABEL: dict[str, str] = {
+    "Masc": ", m",
+    "Fem": ", f",
 }
 
 
@@ -31,10 +35,16 @@ def write_lexicon(
     """
     sorted_entries = sorted(entries, key=lambda e: e.lemma)
     lines = []
+    current_letter = ""
     for entry in sorted_entries:
+        first_letter = entry.lemma[0].upper()
+        if first_letter != current_letter:
+            current_letter = first_letter
+            lines.append(f"--- {current_letter} ---")
         pos_label = POS_LABELS.get(entry.pos, entry.pos.lower())
+        gender_label = _GENDER_LABEL.get(entry.gender, "") if entry.pos == "NOUN" else ""
         translation = translations.get(entry.lemma, "")
-        lines.append(f"{entry.lemma} ({pos_label}) - {translation}")
+        lines.append(f"{entry.lemma} ({pos_label}{gender_label}) - {translation}")
 
     with open(output_path, "w", encoding="utf-8") as f:
         f.write("\n".join(lines) + "\n")

@@ -39,9 +39,10 @@ class TestWriteLexicon:
         output_file = tmp_path / "output.txt"
         write_lexicon(entries, translations, str(output_file))
 
-        lines = output_file.read_text(encoding="utf-8").strip().splitlines()
-        assert lines[0].startswith("impatient")
-        assert lines[1].startswith("voyager")
+        all_lines = output_file.read_text(encoding="utf-8").strip().splitlines()
+        entry_lines = [l for l in all_lines if not l.startswith("---")]
+        assert entry_lines[0].startswith("impatient")
+        assert entry_lines[1].startswith("voyager")
 
     def test_adj_mapped_to_adjective(self, tmp_path):
         entries = [LemmaEntry(lemma="impatient", pos="ADJ")]
@@ -60,6 +61,32 @@ class TestWriteLexicon:
         output_file = tmp_path / "output.txt"
         write_lexicon(entries, {"mot": "word"}, str(output_file))
         assert "mot (weird) - word" in output_file.read_text(encoding="utf-8")
+
+    def test_gendered_noun_gets_article_prefix(self, tmp_path):
+        entries = [
+            LemmaEntry(lemma="professeur", pos="NOUN", gender="Masc"),
+            LemmaEntry(lemma="table", pos="NOUN", gender="Fem"),
+            LemmaEntry(lemma="chose", pos="NOUN", gender=None),
+        ]
+        output_file = tmp_path / "output.txt"
+        write_lexicon(entries, {"professeur": "professor", "table": "table", "chose": "thing"}, str(output_file))
+        content = output_file.read_text(encoding="utf-8")
+        assert "professeur (noun, m) - professor" in content
+        assert "table (noun, f) - table" in content
+        assert "chose (noun) - thing" in content  # no suffix when gender unknown
+
+    def test_letter_headers_inserted_between_sections(self, tmp_path):
+        entries = [
+            LemmaEntry(lemma="arbre", pos="NOUN"),
+            LemmaEntry(lemma="bateau", pos="NOUN"),
+        ]
+        output_file = tmp_path / "output.txt"
+        write_lexicon(entries, {"arbre": "tree", "bateau": "boat"}, str(output_file))
+        lines = output_file.read_text(encoding="utf-8").strip().splitlines()
+        assert lines[0] == "--- A ---"
+        assert lines[1].startswith("arbre")
+        assert lines[2] == "--- B ---"
+        assert lines[3].startswith("bateau")
 
     def test_matches_expected_fixture(self, tmp_path):
         entries = [
